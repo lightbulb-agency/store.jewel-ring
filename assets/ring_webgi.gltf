@@ -1,0 +1,1921 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v2.2.0",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "type": "SCALAR",
+      "componentType": 5125,
+      "count": 948
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 562,
+      "max": [
+        -0.5350266695022583,
+        0.24087625741958618,
+        1.1518129110336304
+      ],
+      "min": [
+        -0.7582319974899292,
+        -0.02547764778137207,
+        0.9710896015167236
+      ]
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 562
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 562
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5125,
+      "count": 948
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 562,
+      "max": [
+        -0.2531214654445648,
+        0.3586772084236145,
+        1.2501837015151978
+      ],
+      "min": [
+        -0.5352851748466492,
+        0.06916206330060959,
+        1.058057188987732
+      ]
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 562
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 562
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5125,
+      "count": 948
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 562,
+      "max": [
+        -0.28886502981185913,
+        0.06772762537002563,
+        1.2622610330581665
+      ],
+      "min": [
+        -0.6106401681900024,
+        -0.26810991764068604,
+        1.0385128259658813
+      ]
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 562
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 562
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5125,
+      "count": 954
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 564,
+      "max": [
+        0.4466251730918884,
+        -0.21616137027740479,
+        1.239372968673706
+      ],
+      "min": [
+        0.24336549639701843,
+        -0.42461228370666504,
+        1.1006219387054443
+      ]
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 564
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 564
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5125,
+      "count": 942
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 556,
+      "max": [
+        0.5753352642059326,
+        0.06244778633117676,
+        1.2346093654632568
+      ],
+      "min": [
+        0.3008233904838562,
+        -0.22706735134124756,
+        1.041475534439087
+      ]
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 556
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 556
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5125,
+      "count": 948
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 570,
+      "max": [
+        0.2982006072998047,
+        0.298200398683548,
+        1.4112019538879395
+      ],
+      "min": [
+        -0.2982006072998047,
+        -0.2982008159160614,
+        1.0776716470718384
+      ]
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 570
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 570
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5125,
+      "count": 63579
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 10962,
+      "max": [
+        1.2365846633911133,
+        0.5503116846084595,
+        1.2395110130310059
+      ],
+      "min": [
+        -1.235959529876709,
+        0.11043255776166916,
+        -1.2369632720947266
+      ]
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 10962
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5125,
+      "count": 259683
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 43408,
+      "max": [
+        1.2251249551773071,
+        0.3676631450653076,
+        1.4073524475097656
+      ],
+      "min": [
+        -1.225305438041687,
+        -0.46955519914627075,
+        -1.2253055572509766
+      ]
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 43408
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1996
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1996,
+      "byteLength": 2004
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4000,
+      "byteLength": 2004
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6004,
+      "byteLength": 2020
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 8024,
+      "byteLength": 2008
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 10032,
+      "byteLength": 2000
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12032,
+      "byteLength": 58568
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 70600,
+      "byteLength": 197072
+    }
+  ],
+  "images": [
+    {
+      "uri": "ring_webgi_img0.png"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "ring_webgi_data.bin",
+      "byteLength": 267672
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0
+      },
+      "extensions": {
+        "WEBGI_materials_bumpmap": {
+          "bumpScale": 1
+        },
+        "WEBGI_materials_lightmap": {
+          "lightMapIntensity": 1
+        },
+        "WEBGI_material_extras": {
+          "fog": true,
+          "flatShading": false,
+          "blending": 1,
+          "shadowSide": null,
+          "depthTest": true,
+          "depthWrite": true,
+          "colorWrite": true,
+          "wireframe": false,
+          "wireframeLinewidth": 1,
+          "wireframeLinecap": "round",
+          "wireframeLinejoin": "round",
+          "dithering": false,
+          "alphaToCoverage": false,
+          "premultipliedAlpha": false,
+          "toneMapped": true
+        }
+      }
+    },
+    {
+      "extras": {
+        "separateEnvMapIntensity": true,
+        "uuid": "50b424e9-ffc9-48a9-97af-64ecc3b979a7"
+      },
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0
+      },
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "name": "diamond",
+          "uuid": "50b424e9-ffc9-48a9-97af-64ecc3b979a7",
+          "color": 16579836,
+          "envMapIntensity": 1.25,
+          "dispersion": 0.012,
+          "squashFactor": 0.98,
+          "geometryFactor": 0.5,
+          "gammaFactor": 1,
+          "absorptionFactor": 1,
+          "reflectivity": 0.5,
+          "refractiveIndex": 2.4,
+          "rayBounces": 5,
+          "diamondOrientedEnvMap": 0,
+          "boostFactors": {
+            "x": 0.892,
+            "y": 0.892,
+            "z": 0.98595025,
+            "isVector3": true
+          },
+          "transmission": 0,
+          "isDiamondMaterialParameters": true,
+          "type": "DiamondMaterial",
+          "userData": {
+            "separateEnvMapIntensity": true,
+            "_baseMaterial": "50b424e9-ffc9-48a9-97af-64ecc3b979a7",
+            "uuid": "50b424e9-ffc9-48a9-97af-64ecc3b979a7"
+          }
+        },
+        "WEBGI_materials_bumpmap": {
+          "bumpScale": 1
+        },
+        "WEBGI_materials_lightmap": {
+          "lightMapIntensity": 1
+        },
+        "WEBGI_material_extras": {
+          "fog": false,
+          "blending": 1,
+          "shadowSide": null,
+          "depthTest": true,
+          "depthWrite": true,
+          "colorWrite": true,
+          "wireframe": false,
+          "wireframeLinewidth": 1,
+          "dithering": false,
+          "alphaToCoverage": false,
+          "premultipliedAlpha": false,
+          "toneMapped": true
+        }
+      }
+    },
+    {
+      "extras": {
+        "separateEnvMapIntensity": true,
+        "uuid": "5353587d-9fcc-47ef-9eaf-355d13307db8"
+      },
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0
+      },
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "name": "diamond",
+          "uuid": "5353587d-9fcc-47ef-9eaf-355d13307db8",
+          "color": 16579836,
+          "envMapIntensity": 1.25,
+          "dispersion": 0.012,
+          "squashFactor": 0.98,
+          "geometryFactor": 0.5,
+          "gammaFactor": 1,
+          "absorptionFactor": 1,
+          "reflectivity": 0.5,
+          "refractiveIndex": 2.4,
+          "rayBounces": 5,
+          "diamondOrientedEnvMap": 0,
+          "boostFactors": {
+            "x": 0.892,
+            "y": 0.892,
+            "z": 0.98595025,
+            "isVector3": true
+          },
+          "transmission": 0,
+          "isDiamondMaterialParameters": true,
+          "type": "DiamondMaterial",
+          "userData": {
+            "separateEnvMapIntensity": true,
+            "_baseMaterial": "5353587d-9fcc-47ef-9eaf-355d13307db8",
+            "uuid": "5353587d-9fcc-47ef-9eaf-355d13307db8"
+          }
+        },
+        "WEBGI_materials_bumpmap": {
+          "bumpScale": 1
+        },
+        "WEBGI_materials_lightmap": {
+          "lightMapIntensity": 1
+        },
+        "WEBGI_material_extras": {
+          "fog": false,
+          "blending": 1,
+          "shadowSide": null,
+          "depthTest": true,
+          "depthWrite": true,
+          "colorWrite": true,
+          "wireframe": false,
+          "wireframeLinewidth": 1,
+          "dithering": false,
+          "alphaToCoverage": false,
+          "premultipliedAlpha": false,
+          "toneMapped": true
+        }
+      }
+    },
+    {
+      "extras": {
+        "separateEnvMapIntensity": true,
+        "uuid": "a426ea29-4031-4366-9cc0-4d41acd3a1f1"
+      },
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0
+      },
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "name": "diamond",
+          "uuid": "a426ea29-4031-4366-9cc0-4d41acd3a1f1",
+          "color": 16579836,
+          "envMapIntensity": 1.25,
+          "dispersion": 0.012,
+          "squashFactor": 0.98,
+          "geometryFactor": 0.5,
+          "gammaFactor": 1,
+          "absorptionFactor": 1,
+          "reflectivity": 0.5,
+          "refractiveIndex": 2.4,
+          "rayBounces": 5,
+          "diamondOrientedEnvMap": 0,
+          "boostFactors": {
+            "x": 0.892,
+            "y": 0.892,
+            "z": 0.98595025,
+            "isVector3": true
+          },
+          "transmission": 0,
+          "isDiamondMaterialParameters": true,
+          "type": "DiamondMaterial",
+          "userData": {
+            "separateEnvMapIntensity": true,
+            "_baseMaterial": "a426ea29-4031-4366-9cc0-4d41acd3a1f1",
+            "uuid": "a426ea29-4031-4366-9cc0-4d41acd3a1f1"
+          }
+        },
+        "WEBGI_materials_bumpmap": {
+          "bumpScale": 1
+        },
+        "WEBGI_materials_lightmap": {
+          "lightMapIntensity": 1
+        },
+        "WEBGI_material_extras": {
+          "fog": false,
+          "blending": 1,
+          "shadowSide": null,
+          "depthTest": true,
+          "depthWrite": true,
+          "colorWrite": true,
+          "wireframe": false,
+          "wireframeLinewidth": 1,
+          "dithering": false,
+          "alphaToCoverage": false,
+          "premultipliedAlpha": false,
+          "toneMapped": true
+        }
+      }
+    },
+    {
+      "extras": {
+        "separateEnvMapIntensity": true,
+        "uuid": "6e6e619a-22ec-457d-a044-06b72421d458"
+      },
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0
+      },
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "name": "diamond",
+          "uuid": "6e6e619a-22ec-457d-a044-06b72421d458",
+          "color": 16579836,
+          "envMapIntensity": 1.25,
+          "dispersion": 0.012,
+          "squashFactor": 0.98,
+          "geometryFactor": 0.5,
+          "gammaFactor": 1,
+          "absorptionFactor": 1,
+          "reflectivity": 0.5,
+          "refractiveIndex": 2.4,
+          "rayBounces": 5,
+          "diamondOrientedEnvMap": 0,
+          "boostFactors": {
+            "x": 0.892,
+            "y": 0.892,
+            "z": 0.98595025,
+            "isVector3": true
+          },
+          "transmission": 0,
+          "isDiamondMaterialParameters": true,
+          "type": "DiamondMaterial",
+          "userData": {
+            "separateEnvMapIntensity": true,
+            "_baseMaterial": "6e6e619a-22ec-457d-a044-06b72421d458",
+            "uuid": "6e6e619a-22ec-457d-a044-06b72421d458"
+          }
+        },
+        "WEBGI_materials_bumpmap": {
+          "bumpScale": 1
+        },
+        "WEBGI_materials_lightmap": {
+          "lightMapIntensity": 1
+        },
+        "WEBGI_material_extras": {
+          "fog": false,
+          "blending": 1,
+          "shadowSide": null,
+          "depthTest": true,
+          "depthWrite": true,
+          "colorWrite": true,
+          "wireframe": false,
+          "wireframeLinewidth": 1,
+          "dithering": false,
+          "alphaToCoverage": false,
+          "premultipliedAlpha": false,
+          "toneMapped": true
+        }
+      }
+    },
+    {
+      "extras": {
+        "separateEnvMapIntensity": true,
+        "uuid": "728d9e9b-7ab0-473c-9f47-1c77c7442e28"
+      },
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0
+      },
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "name": "diamond",
+          "uuid": "728d9e9b-7ab0-473c-9f47-1c77c7442e28",
+          "color": 16579836,
+          "envMapIntensity": 1.25,
+          "dispersion": 0.012,
+          "squashFactor": 0.98,
+          "geometryFactor": 0.5,
+          "gammaFactor": 1,
+          "absorptionFactor": 1,
+          "reflectivity": 0.5,
+          "refractiveIndex": 2.4,
+          "rayBounces": 5,
+          "diamondOrientedEnvMap": 0,
+          "boostFactors": {
+            "x": 0.892,
+            "y": 0.892,
+            "z": 0.98595025,
+            "isVector3": true
+          },
+          "transmission": 0,
+          "isDiamondMaterialParameters": true,
+          "type": "DiamondMaterial",
+          "userData": {
+            "separateEnvMapIntensity": true,
+            "_baseMaterial": "728d9e9b-7ab0-473c-9f47-1c77c7442e28",
+            "uuid": "728d9e9b-7ab0-473c-9f47-1c77c7442e28"
+          }
+        },
+        "WEBGI_materials_bumpmap": {
+          "bumpScale": 1
+        },
+        "WEBGI_materials_lightmap": {
+          "lightMapIntensity": 1
+        },
+        "WEBGI_material_extras": {
+          "fog": false,
+          "blending": 1,
+          "shadowSide": null,
+          "depthTest": true,
+          "depthWrite": true,
+          "colorWrite": true,
+          "wireframe": false,
+          "wireframeLinewidth": 1,
+          "dithering": false,
+          "alphaToCoverage": false,
+          "premultipliedAlpha": false,
+          "toneMapped": true
+        }
+      }
+    },
+    {
+      "extras": {
+        "separateEnvMapIntensity": true,
+        "uuid": "5a57e474-3b1a-4acf-80e7-3d5bdfcb937b"
+      },
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0
+      },
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "name": "diamond",
+          "uuid": "5a57e474-3b1a-4acf-80e7-3d5bdfcb937b",
+          "color": 16579836,
+          "envMapIntensity": 1.25,
+          "dispersion": 0.012,
+          "squashFactor": 0.98,
+          "geometryFactor": 0.5,
+          "gammaFactor": 1,
+          "absorptionFactor": 1,
+          "reflectivity": 0.5,
+          "refractiveIndex": 2.4,
+          "rayBounces": 5,
+          "diamondOrientedEnvMap": 0,
+          "boostFactors": {
+            "x": 0.892,
+            "y": 0.892,
+            "z": 0.98595025,
+            "isVector3": true
+          },
+          "transmission": 0,
+          "isDiamondMaterialParameters": true,
+          "type": "DiamondMaterial",
+          "userData": {
+            "separateEnvMapIntensity": true,
+            "_baseMaterial": "5a57e474-3b1a-4acf-80e7-3d5bdfcb937b",
+            "uuid": "5a57e474-3b1a-4acf-80e7-3d5bdfcb937b"
+          }
+        },
+        "WEBGI_materials_bumpmap": {
+          "bumpScale": 1
+        },
+        "WEBGI_materials_lightmap": {
+          "lightMapIntensity": 1
+        },
+        "WEBGI_material_extras": {
+          "fog": false,
+          "blending": 1,
+          "shadowSide": null,
+          "depthTest": true,
+          "depthWrite": true,
+          "colorWrite": true,
+          "wireframe": false,
+          "wireframeLinewidth": 1,
+          "dithering": false,
+          "alphaToCoverage": false,
+          "premultipliedAlpha": false,
+          "toneMapped": true
+        }
+      }
+    },
+    {
+      "name": "gold",
+      "extras": {
+        "uuid": "bb60129f-fa87-454c-ad36-ea85d78c44ca"
+      },
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7379104087672317,
+          0.46778379610254284,
+          0.15292615198613213,
+          1
+        ],
+        "roughnessFactor": 0
+      },
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 0,
+          "clearcoatRoughnessFactor": 0
+        },
+        "KHR_materials_ior": {
+          "ior": 1.4999999999999998
+        },
+        "KHR_materials_iridescence": {},
+        "WEBGI_materials_bumpmap": {
+          "bumpScale": 0.2
+        },
+        "WEBGI_materials_lightmap": {
+          "lightMapIntensity": 1
+        },
+        "WEBGI_material_extras": {
+          "fog": true,
+          "flatShading": false,
+          "blending": 1,
+          "shadowSide": null,
+          "depthTest": true,
+          "depthWrite": true,
+          "colorWrite": true,
+          "wireframe": false,
+          "wireframeLinewidth": 1,
+          "wireframeLinecap": "round",
+          "wireframeLinejoin": "round",
+          "dithering": false,
+          "alphaToCoverage": false,
+          "premultipliedAlpha": false,
+          "toneMapped": true
+        }
+      }
+    },
+    {
+      "name": "silver",
+      "extras": {
+        "uuid": "4c10655d-534e-4cbe-9543-07293313660e"
+      },
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0,
+        "metallicFactor": 0.9096837639808655
+      },
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 0,
+          "clearcoatRoughnessFactor": 0
+        },
+        "KHR_materials_ior": {
+          "ior": 1.4999999999999998
+        },
+        "KHR_materials_iridescence": {},
+        "WEBGI_materials_bumpmap": {
+          "bumpScale": 1
+        },
+        "WEBGI_materials_lightmap": {
+          "lightMapIntensity": 1
+        },
+        "WEBGI_material_extras": {
+          "fog": true,
+          "flatShading": false,
+          "blending": 1,
+          "shadowSide": null,
+          "depthTest": true,
+          "depthWrite": true,
+          "colorWrite": true,
+          "wireframe": false,
+          "wireframeLinewidth": 1,
+          "wireframeLinecap": "round",
+          "wireframeLinejoin": "round",
+          "dithering": false,
+          "alphaToCoverage": false,
+          "premultipliedAlpha": false,
+          "toneMapped": true
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ],
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "normalMapRes": 256,
+          "cacheKey": "diamond4"
+        }
+      }
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7
+          },
+          "mode": 4,
+          "material": 2,
+          "indices": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 1,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ],
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "normalMapRes": 256,
+          "cacheKey": "diamond2"
+        }
+      }
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 9,
+            "NORMAL": 10,
+            "TEXCOORD_0": 11
+          },
+          "mode": 4,
+          "material": 3,
+          "indices": 8,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 2,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ],
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "normalMapRes": 256,
+          "cacheKey": "diamond3"
+        }
+      }
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 13,
+            "NORMAL": 14,
+            "TEXCOORD_0": 15
+          },
+          "mode": 4,
+          "material": 4,
+          "indices": 12,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 3,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ],
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "normalMapRes": 256,
+          "cacheKey": "diamond6"
+        }
+      }
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 17,
+            "NORMAL": 18,
+            "TEXCOORD_0": 19
+          },
+          "mode": 4,
+          "material": 5,
+          "indices": 16,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 4,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ],
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "normalMapRes": 256,
+          "cacheKey": "diamond5"
+        }
+      }
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 21,
+            "NORMAL": 22,
+            "TEXCOORD_0": 23
+          },
+          "mode": 4,
+          "material": 6,
+          "indices": 20,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 5,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ],
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "normalMapRes": 512,
+          "cacheKey": "diamond1"
+        }
+      }
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 25,
+            "NORMAL": 26
+          },
+          "mode": 4,
+          "material": 7,
+          "indices": 24,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 6,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 28,
+            "NORMAL": 29
+          },
+          "mode": 4,
+          "material": 8,
+          "indices": 27,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 7,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "diamonds002",
+      "extras": {
+        "name": "diamonds.002",
+        "gltfUUID": "04706a15-0e82-44fa-8cf4-5c895290475a"
+      },
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamonds001",
+      "extras": {
+        "name": "diamonds.001",
+        "gltfUUID": "0336642f-bf74-418c-8c20-4bc56cbcbe7f"
+      },
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamonds003",
+      "extras": {
+        "name": "diamonds.003",
+        "gltfUUID": "68c05f08-c9fe-4dd2-8336-eedb1ee8a406"
+      },
+      "mesh": 2,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamonds005",
+      "extras": {
+        "name": "diamonds.005",
+        "gltfUUID": "0accbcd3-eb6d-438a-89df-a89cadbd5ac0"
+      },
+      "mesh": 3,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamonds",
+      "extras": {
+        "name": "diamonds",
+        "gltfUUID": "3387d155-f9c6-454e-9154-c13376b26446"
+      },
+      "mesh": 4,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamonds004",
+      "extras": {
+        "name": "diamonds.004",
+        "gltfUUID": "b8bd06dd-a78e-4a37-b40e-77d022f7e576"
+      },
+      "mesh": 5,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "gold",
+      "extras": {
+        "name": "gold",
+        "gltfUUID": "b9b4b933-32eb-44fe-a5ba-a1de30742138"
+      },
+      "mesh": 6,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "silver",
+      "extras": {
+        "name": "silver",
+        "gltfUUID": "13d5f35e-05ec-4152-bdb1-43f3744b871b"
+      },
+      "mesh": 7,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "Scene_1",
+      "extras": {
+        "name": "Scene",
+        "autoScaled": true,
+        "autoScaleRadius": 2,
+        "gltfUUID": "6122e386-2be2-4670-8cd5-dd102385dbf2"
+      },
+      "rotation": [
+        0,
+        0,
+        0.43496553411123023,
+        0.9004471023526769
+      ],
+      "scale": [
+        1.0627485284829077,
+        1.0627485284829077,
+        1.0627485284829077
+      ],
+      "children": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": false,
+          "receiveShadow": false
+        }
+      }
+    },
+    {
+      "name": "Scene-centered",
+      "extras": {
+        "name": "Scene-centered",
+        "pseudoCentered": true,
+        "autoScaled": true,
+        "autoScaleRadius": 2,
+        "gltfUUID": "221c644e-5088-45ef-aa66-f0b4bd170c84"
+      },
+      "translation": [
+        -0.0003321798612692106,
+        -0.0429119180451962,
+        -0.09258595134026926
+      ],
+      "children": [
+        8
+      ],
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": false,
+          "receiveShadow": false
+        }
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "extras": {
+        "rootSceneModelRoot": true,
+        "gltfUUID": "be1117fb-03f6-4803-83a1-487999f9ebb7"
+      },
+      "nodes": [
+        9
+      ],
+      "extensions": {
+        "WEBGI_viewer": {
+          "version": "0.4.3",
+          "plugins": [
+            {
+              "enabled": true,
+              "type": "AssetImportPopupPluginBasic"
+            },
+            {
+              "type": "AssetExporterPlugin"
+            },
+            {
+              "type": "GLTFDracoExportPlugin"
+            },
+            {
+              "type": "Picking"
+            },
+            {
+              "enabled": true,
+              "type": "GBuffer",
+              "pass": {}
+            },
+            {
+              "maxFrameCount": 32,
+              "jitter": true,
+              "type": "Progressive",
+              "passes": {
+                "progressive": {
+                  "enabled": true
+                }
+              }
+            },
+            {
+              "enabled": true,
+              "type": "Tonemap",
+              "pass": {
+                "toneMapping": 5,
+                "tonemapBackground": true,
+                "clipBackground": false,
+                "exposure": 1.16,
+                "enabled": true
+              }
+            },
+            {
+              "type": "SSReflection",
+              "passes": {
+                "ssr": {
+                  "intensity": 1,
+                  "boost": {
+                    "x": 1,
+                    "y": 1,
+                    "z": 1,
+                    "isVector3": true
+                  },
+                  "objectRadius": 1,
+                  "autoRadius": true,
+                  "power": 1.1,
+                  "tolerance": 0.5,
+                  "stepCount": 16,
+                  "lowQualityFrames": 0,
+                  "maskFrontRays": true,
+                  "maskFrontFactor": -0.2,
+                  "enabled": true
+                }
+              }
+            },
+            {
+              "type": "SSAO",
+              "passes": {
+                "ssao": {
+                  "bilateralPass": {
+                    "smoothEnabled": true,
+                    "edgeSharpness": 0.1,
+                    "enabled": true
+                  },
+                  "parameters": {
+                    "intensity": 0.25,
+                    "occlusionWorldRadius": 1,
+                    "bias": 0.001,
+                    "falloff": 1,
+                    "edgeSharpness": 0.3,
+                    "blurEnabled": true
+                  },
+                  "enabled": true
+                }
+              }
+            },
+            {
+              "envMap": null,
+              "forceSceneEnvMap": false,
+              "type": "Diamond"
+            },
+            {
+              "enabled": true,
+              "type": "FrameFade",
+              "pass": {
+                "enabled": true
+              }
+            },
+            {
+              "animateOnScroll": false,
+              "animationSpeed": 1,
+              "type": "GLTFAnimation"
+            },
+            {
+              "bakedShadows": true,
+              "groundReflection": true,
+              "physicalReflections": false,
+              "shadowBaker": {
+                "randomizedLight": {
+                  "object": {
+                    "uuid": "0caa2812-522b-46c9-81a9-1b7a1da1ea3d",
+                    "type": "DirectionalLight",
+                    "castShadow": true,
+                    "layers": 32,
+                    "matrix": [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1
+                    ],
+                    "children": [
+                      {
+                        "uuid": "b4aa711d-ba2d-4dfd-b920-6dfd712da1b8",
+                        "type": "Object3D",
+                        "layers": 1,
+                        "matrix": [
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          -0.09929999699329514,
+                          -0.9634975873662975,
+                          -0.24862001073215192,
+                          1
+                        ]
+                      }
+                    ],
+                    "color": 16777215,
+                    "intensity": 10,
+                    "shadow": {
+                      "radius": 10,
+                      "mapSize": [
+                        1024,
+                        1024
+                      ],
+                      "camera": {
+                        "uuid": "ff9c94c5-a179-44ac-a24e-e2184f04f09c",
+                        "type": "OrthographicCamera",
+                        "layers": 1,
+                        "zoom": 1,
+                        "left": -2,
+                        "right": 2,
+                        "top": 2,
+                        "bottom": -2,
+                        "near": -2,
+                        "far": 41,
+                        "view": {
+                          "enabled": true,
+                          "fullWidth": 1024,
+                          "fullHeight": 1024,
+                          "offsetX": -0.25,
+                          "offsetY": 0.375,
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      }
+                    }
+                  },
+                  "type": "DirectionalLight2",
+                  "target": [
+                    -0.09929999699329514,
+                    -0.9634975873662975,
+                    -0.24862001073215192
+                  ],
+                  "shadowParams": {
+                    "enabled": true,
+                    "radius": 10,
+                    "width": 1024,
+                    "height": 1024,
+                    "bias": 0,
+                    "normalBias": 0,
+                    "near": 1.5,
+                    "far": 20,
+                    "frustumSize": 4
+                  },
+                  "randomParams": {
+                    "focus": 1,
+                    "spread": 0.9,
+                    "distanceScale": 20,
+                    "minDistanceScale": {
+                      "x": 10,
+                      "y": 10,
+                      "z": 10,
+                      "isVector3": true
+                    },
+                    "normalDirection": {
+                      "x": 0,
+                      "y": 1,
+                      "z": 0,
+                      "isVector3": true
+                    },
+                    "direction": {
+                      "x": 0.2,
+                      "y": 0.96,
+                      "z": 0.2,
+                      "isVector3": true
+                    }
+                  }
+                },
+                "maxFrameNumber": 400,
+                "groundMapMode": "aoMap",
+                "alphaVignette": true,
+                "alphaVignetteAxis": "xy"
+              },
+              "material": {
+                "uuid": "b74eaa3f-f232-4d58-9f7b-25b7216287fe",
+                "resource": "materials"
+              },
+              "visible": false,
+              "size": 8,
+              "yOffset": 0,
+              "renderToDepth": true,
+              "tonemapGround": true,
+              "type": "Ground"
+            },
+            {
+              "enabled": true,
+              "type": "Bloom",
+              "pass": {
+                "threshold": 2,
+                "softThreshold": 0.5,
+                "intensity": 0.5,
+                "bloomIterations": 4,
+                "radius": 0.6,
+                "power": 1,
+                "enabled": true
+              }
+            },
+            {
+              "enabled": true,
+              "type": "AnisotropyPlugin"
+            },
+            {
+              "enabled": true,
+              "type": "ThinFilmLayerPlugin"
+            },
+            {
+              "enabled": true,
+              "type": "NoiseBumpMaterialPlugin"
+            },
+            {
+              "enabled": true,
+              "bicubicFiltering": true,
+              "type": "CustomBumpMapPlugin"
+            },
+            {
+              "enabled": true,
+              "type": "ClearcoatTintPlugin"
+            },
+            {
+              "enabled": false,
+              "type": "VelocityBuffer",
+              "pass": {}
+            },
+            {
+              "enabled": true,
+              "type": "TAA",
+              "pass": {
+                "feedBack": {
+                  "x": 0.88,
+                  "y": 0.97,
+                  "isVector2": true
+                },
+                "enabled": true
+              }
+            },
+            {
+              "cameraViews": [],
+              "viewLooping": false,
+              "viewPauseTime": 200,
+              "animEase": "easeInOutSine",
+              "animDuration": 1000,
+              "rotationOffset": 0.25,
+              "interpolateMode": "spherical",
+              "seekOnScroll": false,
+              "type": "CameraViews"
+            },
+            {
+              "enabled": false,
+              "rdLight": {
+                "object": {
+                  "uuid": "137839dc-1457-4966-a8ad-aa6ec208e469",
+                  "type": "DirectionalLight",
+                  "castShadow": true,
+                  "layers": 0,
+                  "matrix": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    1
+                  ],
+                  "children": [
+                    {
+                      "uuid": "f57b5ffc-3488-4c8f-99ff-909e503fcfb9",
+                      "type": "Object3D",
+                      "layers": 1,
+                      "matrix": [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        -1,
+                        1
+                      ]
+                    }
+                  ],
+                  "color": 13430527,
+                  "intensity": 1,
+                  "shadow": {
+                    "bias": -0.001,
+                    "radius": 2,
+                    "mapSize": [
+                      1024,
+                      1024
+                    ],
+                    "camera": {
+                      "uuid": "898310e2-f6d2-4420-9c72-d48c34e55936",
+                      "type": "OrthographicCamera",
+                      "layers": 1,
+                      "zoom": 1,
+                      "left": -2,
+                      "right": 2,
+                      "top": 2,
+                      "bottom": -2,
+                      "near": -2,
+                      "far": 9,
+                      "view": {
+                        "enabled": true,
+                        "fullWidth": 1024,
+                        "fullHeight": 1024,
+                        "offsetX": -0.25,
+                        "offsetY": 0.375,
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    }
+                  }
+                },
+                "type": "DirectionalLight2",
+                "target": [
+                  0,
+                  0,
+                  -1
+                ],
+                "shadowParams": {
+                  "enabled": true,
+                  "radius": 2,
+                  "width": 1024,
+                  "height": 1024,
+                  "bias": -0.001,
+                  "normalBias": 0,
+                  "near": 1.5,
+                  "far": 4,
+                  "frustumSize": 4
+                },
+                "randomParams": {
+                  "focus": 1,
+                  "spread": 0.01,
+                  "distanceScale": 50,
+                  "minDistanceScale": {
+                    "x": 10,
+                    "y": 10,
+                    "z": 10,
+                    "isVector3": true
+                  },
+                  "normalDirection": {
+                    "x": 0.010203019316098974,
+                    "y": 0.9998958929776994,
+                    "z": 0.010203019316098974,
+                    "isVector3": true
+                  },
+                  "direction": {
+                    "x": -0.9,
+                    "y": 0.5,
+                    "z": -1,
+                    "isVector3": true
+                  }
+                }
+              },
+              "lightLayers": 1,
+              "type": "RandomizedDirectionalLight"
+            },
+            {
+              "enabled": false,
+              "worldRadius": 100,
+              "tripodHeight": 10,
+              "type": "HDRiGroundPlugin"
+            },
+            {
+              "enableEdit": false,
+              "focalPoint": {
+                "x": -0.16547683299415739,
+                "y": 0.06406813695224042,
+                "z": 1.3913756148966434,
+                "isVector3": true
+              },
+              "crossFadeTime": 200,
+              "enabled": true,
+              "type": "DepthOfField",
+              "pass": {
+                "nearFarBlurScale": {
+                  "x": 0.25,
+                  "y": 0.45652173913043476,
+                  "isVector2": true
+                },
+                "focalDepthRange": {
+                  "x": 6.083436275597291,
+                  "y": 1.5,
+                  "isVector2": true
+                },
+                "enabled": true
+              }
+            },
+            {
+              "enabled": false,
+              "radius": 0.015,
+              "intensity": 1,
+              "tolerance": 1.5,
+              "onlySSCSDebug": false,
+              "stepCount": 2,
+              "type": "SSContactShadows"
+            },
+            {
+              "type": "SSGI",
+              "passes": {
+                "ssrtgi": {
+                  "bilateralPass": {
+                    "smoothEnabled": true,
+                    "edgeSharpness": 0.1,
+                    "enabled": true
+                  },
+                  "intensity": 2,
+                  "power": 1.1,
+                  "autoRadius": true,
+                  "objectRadius": 2,
+                  "tolerance": 1,
+                  "bias": 0.15,
+                  "falloff": 0.7,
+                  "rayCount": 2,
+                  "stepCount": 4,
+                  "smoothEnabled": true,
+                  "enabled": false
+                }
+              }
+            },
+            {
+              "stepCount": 12,
+              "binaryStepCount": 3,
+              "type": "ReliefParallaxMapping"
+            },
+            {
+              "enabled": true,
+              "type": "ObjectRotationPlugin"
+            },
+            {
+              "type": "ShapeTubeExtrudePlugin"
+            },
+            {
+              "type": "SimpleTextPlugin"
+            },
+            {
+              "variations": [],
+              "type": "MaterialConfiguratorPlugin"
+            },
+            {
+              "variations": [],
+              "type": "SwitchNodePlugin"
+            },
+            {
+              "type": "MaterialLibraryPlugin"
+            },
+            {
+              "type": "CanvasRecorder"
+            },
+            {
+              "type": "CanvasSnipper"
+            },
+            {
+              "type": "SimpleLightsUi"
+            }
+          ],
+          "scene": {
+            "defaultCamera": {
+              "camControls": {
+                "type": "OrbitControls",
+                "enableDamping": true,
+                "dampingFactor": 0.08,
+                "autoRotate": false,
+                "autoRotateSpeed": 2,
+                "enableZoom": true,
+                "zoomSpeed": 0.15,
+                "maxZoomSpeed": 0.2,
+                "enableRotate": true,
+                "rotateSpeed": 2,
+                "enablePan": true,
+                "panSpeed": 1,
+                "minDistance": 0.01,
+                "maxDistance": 1000,
+                "minZoom": 0.01,
+                "maxZoom": 1000,
+                "minPolarAngle": 0,
+                "maxPolarAngle": 3.141592653589793,
+                "minAzimuthAngle": -10000,
+                "maxAzimuthAngle": 10000,
+                "screenSpacePanning": true,
+                "keyPanSpeed": 7
+              },
+              "camOptions": {
+                "type": "PerspectiveCamera",
+                "aspect": "auto",
+                "focus": 10,
+                "fov": 25,
+                "zoom": 1,
+                "frustumSize": 1,
+                "top": 1,
+                "bottom": -1,
+                "left": -1,
+                "right": 1,
+                "controlsMode": "orbit",
+                "controlsEnabled": true
+              },
+              "position": {
+                "x": 1.3845003010121106,
+                "y": -2.1843459705021093,
+                "z": 6.9274895343783,
+                "isVector3": true
+              },
+              "target": {
+                "x": 0.6240795521594973,
+                "y": -0.015666904547985423,
+                "z": -0.01973414796677941,
+                "isVector3": true
+              }
+            },
+            "envMapIntensity": 1,
+            "environment": {
+              "uuid": "0601f592-24b1-4017-8e41-360273b2632c",
+              "resource": "textures"
+            }
+          },
+          "background": 15820647,
+          "backgroundIntensity": 1,
+          "resources": {
+            "geometries": {},
+            "materials": {
+              "b74eaa3f-f232-4d58-9f7b-25b7216287fe": {
+                "metadata": {
+                  "version": 4.5,
+                  "type": "Material",
+                  "generator": "Material.toJSON"
+                },
+                "uuid": "b74eaa3f-f232-4d58-9f7b-25b7216287fe",
+                "type": "MeshStandardMaterial2",
+                "name": "BaseGroundMaterial",
+                "color": 16777215,
+                "roughness": 0.2,
+                "metalness": 0.5,
+                "sheen": 0,
+                "sheenColor": 0,
+                "sheenRoughness": 1,
+                "emissive": 0,
+                "specularIntensity": 1,
+                "specularColor": 16777215,
+                "clearcoat": 0,
+                "clearcoatRoughness": 0,
+                "iridescence": 0,
+                "iridescenceIOR": 1.3,
+                "iridescenceThicknessRange": [
+                  100,
+                  400
+                ],
+                "envMapIntensity": 1,
+                "reflectivity": 0.49999999999999983,
+                "transmission": 0,
+                "thickness": 0,
+                "attenuationDistance": 0,
+                "attenuationColor": 16777215,
+                "depthFunc": 3,
+                "depthTest": true,
+                "depthWrite": true,
+                "colorWrite": true,
+                "stencilWrite": false,
+                "stencilWriteMask": 255,
+                "stencilFunc": 519,
+                "stencilRef": 0,
+                "stencilFuncMask": 255,
+                "stencilFail": 7680,
+                "stencilZFail": 7680,
+                "stencilZPass": 7680,
+                "fog": false,
+                "userData": {
+                  "renderToDepth": true,
+                  "postTonemap": true,
+                  "ssaoDisabled": true,
+                  "sscsDisabled": true,
+                  "ssreflDisabled": true,
+                  "ssreflNonPhysical": true,
+                  "gMapMode": "aoMap",
+                  "ALPHA_I_RGBA_PACKING": false,
+                  "uuid": "b74eaa3f-f232-4d58-9f7b-25b7216287fe"
+                }
+              }
+            },
+            "textures": {
+              "0601f592-24b1-4017-8e41-360273b2632c": {
+                "metadata": {
+                  "version": 4.5,
+                  "type": "Texture",
+                  "generator": "Texture.toJSON"
+                },
+                "uuid": "0601f592-24b1-4017-8e41-360273b2632c",
+                "name": "",
+                "image": "b8441821-709b-4309-b95e-4c749e4cd232",
+                "mapping": 303,
+                "repeat": [
+                  1,
+                  1
+                ],
+                "offset": [
+                  0,
+                  0
+                ],
+                "center": [
+                  0,
+                  0
+                ],
+                "rotation": 0,
+                "wrap": [
+                  1001,
+                  1001
+                ],
+                "format": 1023,
+                "type": 1016,
+                "encoding": 3000,
+                "minFilter": 1006,
+                "magFilter": 1006,
+                "anisotropy": 1,
+                "flipY": true,
+                "premultiplyAlpha": false,
+                "unpackAlignment": 1,
+                "userData": {
+                  "mimeType": "image/png"
+                }
+              }
+            },
+            "images": {
+              "b8441821-709b-4309-b95e-4c749e4cd232": {
+                "uuid": "b8441821-709b-4309-b95e-4c749e4cd232",
+                "url": {
+                  "data": {
+                    "image": 0
+                  },
+                  "width": 1024,
+                  "height": 512,
+                  "type": "Uint16Array",
+                  "encoding": "rgbe"
+                }
+              }
+            },
+            "shapes": {},
+            "skeletons": {},
+            "animations": {}
+          }
+        }
+      }
+    }
+  ],
+  "scene": 0,
+  "extensionsUsed": [
+    "KHR_materials_clearcoat",
+    "KHR_materials_ior",
+    "KHR_materials_iridescence",
+    "WEBGI_viewer",
+    "WEBGI_materials_diamond",
+    "WEBGI_materials_bumpmap",
+    "WEBGI_materials_lightmap",
+    "WEBGI_object3d_extras",
+    "WEBGI_material_extras",
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ]
+}

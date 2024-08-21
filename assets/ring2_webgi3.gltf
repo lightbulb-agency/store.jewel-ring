@@ -1,0 +1,3788 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v2.2.3",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "type": "SCALAR",
+      "componentType": 5125,
+      "count": 906
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 544,
+      "max": [
+        116.26071166992188,
+        96.39993286132812,
+        116.2607192993164
+      ],
+      "min": [
+        -116.26071166992188,
+        -47.17491149902344,
+        -116.26070404052734
+      ]
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 544
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5125,
+      "count": 906
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 544,
+      "max": [
+        116.26071166992188,
+        96.39993286132812,
+        116.2607192993164
+      ],
+      "min": [
+        -116.26071166992188,
+        -47.17491149902344,
+        -116.26070404052734
+      ]
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 544
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5125,
+      "count": 1668
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 766,
+      "max": [
+        3.25,
+        23.25,
+        14.272428512573242
+      ],
+      "min": [
+        -3.25,
+        16.75,
+        9.8026123046875
+      ]
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 766
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 766
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5125,
+      "count": 113736
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 19635,
+      "max": [
+        4.854546546936035,
+        24.85125732421875,
+        13.992538452148438
+      ],
+      "min": [
+        -4.839565277099609,
+        15.133419036865234,
+        8.759035110473633
+      ]
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 19635
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 19635
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5125,
+      "count": 227040
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 38456,
+      "max": [
+        59.33599853515625,
+        59.33599853515625,
+        5.176759243011475
+      ],
+      "min": [
+        -59.33599853515625,
+        -59.33599853515625,
+        -5.174353122711182
+      ]
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 38456
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 38456
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1464
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1464,
+      "byteLength": 1464
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2928,
+      "byteLength": 4132
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 7060,
+      "byteLength": 133412
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 140472,
+      "byteLength": 251012
+    }
+  ],
+  "images": [
+    {
+      "uri": "ring2_webgi3_img0.png"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "ring2_webgi3_data.bin",
+      "byteLength": 391484
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0
+      },
+      "extensions": {
+        "WEBGI_materials_bumpmap": {
+          "bumpScale": 1
+        },
+        "WEBGI_materials_lightmap": {
+          "lightMapIntensity": 1
+        },
+        "WEBGI_material_extras": {
+          "fog": true,
+          "flatShading": false,
+          "blending": 1,
+          "side": 0,
+          "shadowSide": null,
+          "depthFunc": 3,
+          "depthTest": true,
+          "depthWrite": true,
+          "colorWrite": true,
+          "wireframe": false,
+          "wireframeLinewidth": 1,
+          "wireframeLinecap": "round",
+          "wireframeLinejoin": "round",
+          "dithering": false,
+          "alphaToCoverage": false,
+          "premultipliedAlpha": false,
+          "toneMapped": true
+        }
+      }
+    },
+    {
+      "extras": {
+        "separateEnvMapIntensity": true,
+        "uuid": "3D9A42E9-BE5E-4773-9723-9C71A124A153"
+      },
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0
+      },
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "name": "diamond",
+          "uuid": "3D9A42E9-BE5E-4773-9723-9C71A124A153",
+          "color": 16579836,
+          "envMapIntensity": 1,
+          "dispersion": 0.012,
+          "squashFactor": 0.98,
+          "geometryFactor": 0.5,
+          "gammaFactor": 1,
+          "absorptionFactor": 1,
+          "reflectivity": 0.5,
+          "refractiveIndex": 2.4,
+          "rayBounces": 5,
+          "diamondOrientedEnvMap": 0,
+          "boostFactors": {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "isVector3": true
+          },
+          "transmission": 0,
+          "isDiamondMaterialParameters": true,
+          "type": "DiamondMaterial",
+          "userData": {
+            "separateEnvMapIntensity": true,
+            "_baseMaterial": "3D9A42E9-BE5E-4773-9723-9C71A124A153",
+            "uuid": "3D9A42E9-BE5E-4773-9723-9C71A124A153"
+          }
+        },
+        "WEBGI_materials_bumpmap": {
+          "bumpScale": 1
+        },
+        "WEBGI_materials_lightmap": {
+          "lightMapIntensity": 1
+        },
+        "WEBGI_material_extras": {
+          "fog": false,
+          "blending": 1,
+          "shadowSide": null,
+          "depthFunc": 3,
+          "depthTest": true,
+          "depthWrite": true,
+          "colorWrite": true,
+          "wireframe": false,
+          "wireframeLinewidth": 1,
+          "dithering": false,
+          "alphaToCoverage": false,
+          "premultipliedAlpha": false,
+          "toneMapped": true
+        }
+      }
+    },
+    {
+      "extras": {
+        "separateEnvMapIntensity": true,
+        "uuid": "23B09776-083E-47AC-A14B-776BF73AADBB"
+      },
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0
+      },
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "name": "diamond",
+          "uuid": "23B09776-083E-47AC-A14B-776BF73AADBB",
+          "color": 16579836,
+          "envMapIntensity": 1,
+          "dispersion": 0.012,
+          "squashFactor": 0.98,
+          "geometryFactor": 0.5,
+          "gammaFactor": 1,
+          "absorptionFactor": 1,
+          "reflectivity": 0.5,
+          "refractiveIndex": 2.4,
+          "rayBounces": 5,
+          "diamondOrientedEnvMap": 0,
+          "boostFactors": {
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "isVector3": true
+          },
+          "transmission": 0,
+          "isDiamondMaterialParameters": true,
+          "type": "DiamondMaterial",
+          "userData": {
+            "separateEnvMapIntensity": true,
+            "_baseMaterial": "23B09776-083E-47AC-A14B-776BF73AADBB",
+            "uuid": "23B09776-083E-47AC-A14B-776BF73AADBB"
+          }
+        },
+        "WEBGI_materials_bumpmap": {
+          "bumpScale": 1
+        },
+        "WEBGI_materials_lightmap": {
+          "lightMapIntensity": 1
+        },
+        "WEBGI_material_extras": {
+          "fog": false,
+          "blending": 1,
+          "shadowSide": null,
+          "depthFunc": 3,
+          "depthTest": true,
+          "depthWrite": true,
+          "colorWrite": true,
+          "wireframe": false,
+          "wireframeLinewidth": 1,
+          "dithering": false,
+          "alphaToCoverage": false,
+          "premultipliedAlpha": false,
+          "toneMapped": true
+        }
+      }
+    },
+    {
+      "extras": {
+        "separateEnvMapIntensity": true,
+        "uuid": "DFC6BE4E-4D58-4A9B-8EB0-AC92273F869A"
+      },
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0
+      },
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "name": "Diamond Yellow",
+          "uuid": "DFC6BE4E-4D58-4A9B-8EB0-AC92273F869A",
+          "color": 16515628,
+          "envMapIntensity": 1,
+          "dispersion": 0,
+          "squashFactor": 0.98,
+          "geometryFactor": 0.5,
+          "gammaFactor": 1,
+          "absorptionFactor": 1.3,
+          "reflectivity": 0.5,
+          "refractiveIndex": 1.87,
+          "rayBounces": 5,
+          "diamondOrientedEnvMap": 0,
+          "boostFactors": {
+            "x": 1,
+            "y": 1,
+            "z": 1.15,
+            "isVector3": true
+          },
+          "transmission": 0.09,
+          "isDiamondMaterialParameters": true,
+          "type": "DiamondMaterial",
+          "userData": {
+            "separateEnvMapIntensity": true,
+            "_baseMaterial": "DFC6BE4E-4D58-4A9B-8EB0-AC92273F869A",
+            "uuid": "DFC6BE4E-4D58-4A9B-8EB0-AC92273F869A"
+          }
+        },
+        "WEBGI_materials_bumpmap": {
+          "bumpScale": 1
+        },
+        "WEBGI_materials_lightmap": {
+          "lightMapIntensity": 1
+        },
+        "WEBGI_material_extras": {
+          "fog": false,
+          "blending": 1,
+          "shadowSide": null,
+          "depthFunc": 3,
+          "depthTest": true,
+          "depthWrite": true,
+          "colorWrite": true,
+          "wireframe": false,
+          "wireframeLinewidth": 1,
+          "dithering": false,
+          "alphaToCoverage": false,
+          "premultipliedAlpha": false,
+          "toneMapped": true
+        }
+      }
+    },
+    {
+      "name": "metal",
+      "extras": {
+        "uuid": "2C43DF05-5BE6-4DE3-AA5B-1133296C0AC5"
+      },
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5882352941176471,
+          0.5882352941176471,
+          0.5882352941176471,
+          1
+        ],
+        "roughnessFactor": 0
+      },
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 0,
+          "clearcoatRoughnessFactor": 0
+        },
+        "KHR_materials_ior": {
+          "ior": 1.4999999999999998
+        },
+        "KHR_materials_iridescence": {},
+        "WEBGI_materials_bumpmap": {
+          "bumpScale": 1
+        },
+        "WEBGI_materials_lightmap": {
+          "lightMapIntensity": 1
+        },
+        "WEBGI_material_extras": {
+          "fog": false,
+          "flatShading": false,
+          "blending": 1,
+          "shadowSide": null,
+          "depthFunc": 3,
+          "depthTest": true,
+          "depthWrite": true,
+          "colorWrite": true,
+          "wireframe": false,
+          "wireframeLinewidth": 1,
+          "wireframeLinecap": "round",
+          "wireframeLinejoin": "round",
+          "dithering": false,
+          "alphaToCoverage": false,
+          "premultipliedAlpha": false,
+          "toneMapped": true
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2
+          },
+          "mode": 4,
+          "material": 1,
+          "indices": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        }
+      ],
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "normalMapRes": 512,
+          "cacheKey": "diaalliance"
+        }
+      }
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5
+          },
+          "mode": 4,
+          "material": 2,
+          "indices": 3,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 1,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1
+              }
+            }
+          }
+        }
+      ],
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "normalMapRes": 512,
+          "cacheKey": "diaentourage"
+        }
+      }
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 7,
+            "NORMAL": 8,
+            "TEXCOORD_0": 9
+          },
+          "mode": 4,
+          "material": 3,
+          "indices": 6,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 2,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ],
+      "extensions": {
+        "WEBGI_materials_diamond": {
+          "normalMapRes": 512,
+          "cacheKey": "centergem"
+        }
+      }
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 11,
+            "NORMAL": 12,
+            "TEXCOORD_0": 13
+          },
+          "mode": 4,
+          "material": 4,
+          "indices": 10,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 3,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 15,
+            "NORMAL": 16,
+            "TEXCOORD_0": 17
+          },
+          "mode": 4,
+          "material": 4,
+          "indices": 14,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 4,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "dia001",
+      "extras": {
+        "name": "dia001",
+        "gltfUUID": "F52B98DA-C7BA-4BCE-AB95-FBE2CA34A349"
+      },
+      "translation": [
+        0.00008078858809312806,
+        7.9053521156311035,
+        -0.08664796501398087
+      ],
+      "scale": [
+        0.006364000029861926,
+        0.006740999873727559,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia002",
+      "extras": {
+        "name": "dia002",
+        "gltfUUID": "A8D4B1DF-CE58-486F-A221-3B21206B3CDE"
+      },
+      "translation": [
+        1.4389621019363403,
+        7.802428722381592,
+        -0.08664985746145248
+      ],
+      "rotation": [
+        -0.0000031127240208466066,
+        3.296581724740866e-18,
+        -0.07134135077734963,
+        0.9974519595747828
+      ],
+      "scale": [
+        0.00636400049571168,
+        0.006741000339588478,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia003",
+      "extras": {
+        "name": "dia003",
+        "gltfUUID": "831D6175-5E56-4E1E-AC73-D0DD722E63FA"
+      },
+      "translation": [
+        2.848557949066162,
+        7.495781898498535,
+        -0.08665098249912262
+      ],
+      "rotation": [
+        -0.000003107177456981142,
+        -3.43559598254474e-17,
+        -0.14231695208852033,
+        0.9898211379530037
+      ],
+      "scale": [
+        0.006364000494544402,
+        0.006741000338352051,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia004",
+      "extras": {
+        "name": "dia004",
+        "gltfUUID": "F07FC3C2-6F65-44E4-A459-76948C4708B6"
+      },
+      "translation": [
+        4.20015811920166,
+        6.991652488708496,
+        -0.08665267378091812
+      ],
+      "rotation": [
+        -0.0000033133141694230656,
+        -7.910764477792225e-16,
+        -0.21256743136654777,
+        0.9771464000400605
+      ],
+      "scale": [
+        0.006364000015892486,
+        0.006740999858930576,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia005",
+      "extras": {
+        "name": "dia005",
+        "gltfUUID": "C8CDA18B-AE1B-4FFE-80ED-AC95AB7B1CBD"
+      },
+      "translation": [
+        5.466261386871338,
+        6.30029296875,
+        -0.08665365725755692
+      ],
+      "rotation": [
+        -0.000003296200798249565,
+        1.5056834538642083e-14,
+        -0.2817347281974248,
+        0.9594923360385211
+      ],
+      "scale": [
+        0.0063640006935306165,
+        0.006741000083464797,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia006",
+      "extras": {
+        "name": "dia006",
+        "gltfUUID": "0EFE7F01-EE3C-4403-9D1A-E74CF667BEB4"
+      },
+      "translation": [
+        6.621078968048096,
+        5.435789108276367,
+        -0.08665648847818375
+      ],
+      "rotation": [
+        -0.0000032632940829793925,
+        3.2387544312286524e-15,
+        -0.34946611811350825,
+        0.9369490019633013
+      ],
+      "scale": [
+        0.0063640000637301825,
+        0.006741000375263443,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia007",
+      "extras": {
+        "name": "dia007",
+        "gltfUUID": "80C7D1BC-61BB-4D21-B7EB-49063476083D"
+      },
+      "translation": [
+        7.641114711761475,
+        4.415738105773926,
+        -0.08665840327739716
+      ],
+      "rotation": [
+        -0.0000032134495419977168,
+        5.543577088398405e-14,
+        -0.41541719433774943,
+        0.9096309991629717
+      ],
+      "scale": [
+        0.006364000044995298,
+        0.006741000383004263,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia008",
+      "extras": {
+        "name": "dia008",
+        "gltfUUID": "782916A9-4877-4FE4-9711-0AE604776080"
+      },
+      "translation": [
+        8.505589485168457,
+        3.260903835296631,
+        -0.08666212856769562
+      ],
+      "rotation": [
+        -0.0000033222386498720023,
+        0.0000020498380549456856,
+        -0.47925096966612013,
+        0.8776779067851967
+      ],
+      "scale": [
+        0.006364000078683246,
+        0.006741000391102314,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia009",
+      "extras": {
+        "name": "dia009",
+        "gltfUUID": "548EDE85-0988-4B98-BB85-FBE34C6A815D"
+      },
+      "translation": [
+        9.19692325592041,
+        1.9947961568832397,
+        -0.0866686999797821
+      ],
+      "rotation": [
+        -0.000003390968028030399,
+        0.000002528535370283339,
+        -0.5406426213284152,
+        0.8412523735391465
+      ],
+      "scale": [
+        0.006364000102596335,
+        0.006740999950770712,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia010",
+      "extras": {
+        "name": "dia010",
+        "gltfUUID": "03F25E6A-94CB-44C8-8D70-FC2957AF7013"
+      },
+      "translation": [
+        9.70103645324707,
+        0.6431851983070374,
+        -0.08668086677789688
+      ],
+      "rotation": [
+        -0.0000036172522941599584,
+        0.000003038727320679888,
+        -0.599279539001659,
+        0.800539839178314
+      ],
+      "scale": [
+        0.006364000901975468,
+        0.006741000797504633,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia011",
+      "extras": {
+        "name": "dia011",
+        "gltfUUID": "9156E986-55B9-45AC-8B54-2E2F774E20BF"
+      },
+      "translation": [
+        10.00766658782959,
+        -0.7664065957069397,
+        -0.08670518547296524
+      ],
+      "rotation": [
+        -0.0000044423428752001475,
+        0.000004142294343245716,
+        -0.6548625321433573,
+        0.7557480161786052
+      ],
+      "scale": [
+        0.006364001091668518,
+        0.006741001464096351,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia012",
+      "extras": {
+        "name": "dia012",
+        "gltfUUID": "1521351F-9EB8-4916-B932-86755C7D54CD"
+      },
+      "translation": [
+        10.110563278198242,
+        -2.205247640609741,
+        -0.08664796501398087
+      ],
+      "rotation": [
+        -0.0000021916362129559055,
+        0.000002191635683213156,
+        -0.7071067094802834,
+        0.7071068528860116
+      ],
+      "scale": [
+        0.006363999812092707,
+        0.006740999643057812,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia013",
+      "extras": {
+        "name": "dia013",
+        "gltfUUID": "04169748-542C-4E2C-A4FC-1D363BD0C407"
+      },
+      "translation": [
+        10.007637977600098,
+        -3.6441707611083984,
+        -0.08658232539892197
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.7557509510768408,
+        0.6548591451193536
+      ],
+      "scale": [
+        0.006364000445441341,
+        0.006741000313925673,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia014",
+      "extras": {
+        "name": "dia014",
+        "gltfUUID": "F058379E-39EF-446C-9D24-6BDD935E2AFB"
+      },
+      "translation": [
+        9.700984954833984,
+        -5.053760051727295,
+        -0.08661694079637527
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.8005425324985933,
+        0.5992759411662866
+      ],
+      "scale": [
+        0.006364000094894363,
+        0.006740999942612485,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia015",
+      "extras": {
+        "name": "dia015",
+        "gltfUUID": "BF13643B-3F7F-4DCD-85EF-0414AA064A8C"
+      },
+      "translation": [
+        9.196853637695312,
+        -6.4053635597229,
+        -0.0866265594959259
+      ],
+      "rotation": [
+        0,
+        0,
+        -0.8412547112833652,
+        0.5406389837438124
+      ],
+      "scale": [
+        0.006364000023044786,
+        0.0067409998665065776,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia016",
+      "extras": {
+        "name": "dia016",
+        "gltfUUID": "F1412ECE-C5FF-41F4-B3ED-50E0E134FF64"
+      },
+      "translation": [
+        8.505499839782715,
+        -7.671453475952148,
+        -0.08663193136453629
+      ],
+      "rotation": [
+        -2.3931336097434313e-14,
+        -0.0000022554898180516364,
+        0.877679950023169,
+        -0.4792472277668808
+      ],
+      "scale": [
+        0.006363999782539881,
+        0.006740999611754291,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia017",
+      "extras": {
+        "name": "dia017",
+        "gltfUUID": "1D4B970A-8701-4E64-840F-2C8CFCA5F416"
+      },
+      "translation": [
+        7.641001224517822,
+        -8.826278686523438,
+        -0.08663957566022873
+      ],
+      "rotation": [
+        -3.919271026692187e-15,
+        -0.000002658581939342204,
+        0.9096328627762005,
+        -0.4154131135995901
+      ],
+      "scale": [
+        0.006363999988775216,
+        0.006740999364545611,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia018",
+      "extras": {
+        "name": "dia018",
+        "gltfUUID": "07EC099F-DEA1-4FBE-82D1-24A0EE0AE569"
+      },
+      "translation": [
+        6.620943546295166,
+        -9.846312522888184,
+        -0.08663574606180191
+      ],
+      "rotation": [
+        -4.557500714515446e-15,
+        -0.0000025583544881120222,
+        0.936950447101433,
+        -0.34946224355412076
+      ],
+      "scale": [
+        0.0063639999690704606,
+        0.006740999809334838,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia019",
+      "extras": {
+        "name": "dia019",
+        "gltfUUID": "0C850F8E-5B47-4106-AEAB-233F02FF42B8"
+      },
+      "translation": [
+        5.466108798980713,
+        -10.710793495178223,
+        -0.08664342015981674
+      ],
+      "rotation": [
+        3.620782501239789e-15,
+        -0.000002890724310997304,
+        0.9594935160055947,
+        -0.2817307096055828
+      ],
+      "scale": [
+        0.006364000084157415,
+        0.006740999931239484,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia020",
+      "extras": {
+        "name": "dia020",
+        "gltfUUID": "E43CB87C-2BE6-4ACA-95CB-BA3C84D4D8B4"
+      },
+      "translation": [
+        4.200004577636719,
+        -11.402129173278809,
+        -0.08664355427026749
+      ],
+      "rotation": [
+        1.144904198365704e-14,
+        -0.0000029191712380422055,
+        0.9771472727780449,
+        -0.2125634194632451
+      ],
+      "scale": [
+        0.006364000259340019,
+        0.006741000116799808,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia021",
+      "extras": {
+        "name": "dia021",
+        "gltfUUID": "40794F72-BD81-4612-A100-BA71D6CB0F88"
+      },
+      "translation": [
+        2.8483898639678955,
+        -11.90623950958252,
+        -0.0866444930434227
+      ],
+      "rotation": [
+        4.113708917754066e-15,
+        -0.0000029799534640417706,
+        0.989821727390586,
+        -0.142312852464689
+      ],
+      "scale": [
+        0.006364000152069211,
+        0.006741000003174338,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia022",
+      "extras": {
+        "name": "dia022",
+        "gltfUUID": "0871F7DC-8512-47CC-9A9D-39FD73FA9F08"
+      },
+      "translation": [
+        1.4387965202331543,
+        -12.212867736816406,
+        -0.08664511889219284
+      ],
+      "rotation": [
+        1.6129891961311178e-15,
+        -0.0000030425585351057164,
+        0.9974522553857906,
+        -0.07133721480785797
+      ],
+      "scale": [
+        0.006364000589870342,
+        0.006740999973663757,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia023",
+      "extras": {
+        "name": "dia023",
+        "gltfUUID": "FEF756F8-2BA3-439C-AEE6-04539B001A81"
+      },
+      "translation": [
+        -0.00007186743459897116,
+        -12.315763473510742,
+        -0.08664792031049728
+      ],
+      "rotation": [
+        -8.019532194627288e-23,
+        -0.0000031749400477350204,
+        0.9999999999932233,
+        0.000001863636271044327
+      ],
+      "scale": [
+        0.006364000030034433,
+        0.006740999873910287,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia024",
+      "extras": {
+        "name": "dia024",
+        "gltfUUID": "17D15ABC-00BE-4816-AB79-201FF9A29074"
+      },
+      "translation": [
+        -1.4389537572860718,
+        -12.21284294128418,
+        -0.08665086328983307
+      ],
+      "rotation": [
+        -1.2997586113058367e-14,
+        -0.0000032062536316372866,
+        0.9974519925227053,
+        0.07134089011362925
+      ],
+      "scale": [
+        0.006364000751265806,
+        0.006741000637867005,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia025",
+      "extras": {
+        "name": "dia025",
+        "gltfUUID": "15204062-A3C2-4B61-AB2C-A51648EF58D3"
+      },
+      "translation": [
+        -2.8485476970672607,
+        -11.906194686889648,
+        -0.08665084838867188
+      ],
+      "rotation": [
+        -1.1283398933292441e-14,
+        -0.0000031872975395936617,
+        0.9898211836687755,
+        0.14231663413103013
+      ],
+      "scale": [
+        0.006364000343247196,
+        0.0067410002056775995,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia026",
+      "extras": {
+        "name": "dia026",
+        "gltfUUID": "4EF92B90-0DAE-4644-B53F-0E4E81BDCA70"
+      },
+      "translation": [
+        -4.200149059295654,
+        -11.402061462402344,
+        -0.08665374666452408
+      ],
+      "rotation": [
+        -1.5979096100495782e-13,
+        -0.0000032197884384658345,
+        0.9771465193335168,
+        0.21256688298986276
+      ],
+      "scale": [
+        0.006364002933544387,
+        0.006741003415084068,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia027",
+      "extras": {
+        "name": "dia027",
+        "gltfUUID": "C3FF44FC-E773-4822-80FA-E49EAAADA169"
+      },
+      "translation": [
+        -5.466238021850586,
+        -10.710712432861328,
+        -0.08665651828050613
+      ],
+      "rotation": [
+        -3.453432587833263e-14,
+        -0.0000033163225268865175,
+        0.959492548654197,
+        0.2817340040997455
+      ],
+      "scale": [
+        0.0063640009469182295,
+        0.0067410003518629325,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia028",
+      "extras": {
+        "name": "dia028",
+        "gltfUUID": "6822A657-3BAE-4667-ACE9-8CE6994062CC"
+      },
+      "translation": [
+        -6.621054172515869,
+        -9.846207618713379,
+        -0.08665645867586136
+      ],
+      "rotation": [
+        -2.0513573360224244e-13,
+        -0.0000031677790553461124,
+        0.9369491830612152,
+        0.34946563257477375
+      ],
+      "scale": [
+        0.006364002239688326,
+        0.0067410022144628505,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia029",
+      "extras": {
+        "name": "dia029",
+        "gltfUUID": "C022D681-9BF9-4CAD-BC08-8972CBFC8CB9"
+      },
+      "translation": [
+        -7.641106128692627,
+        -8.826156616210938,
+        -0.08666203171014786
+      ],
+      "rotation": [
+        -6.080519125303115e-14,
+        -0.0000032848248897945104,
+        0.9096312973032404,
+        0.4154165415045888
+      ],
+      "scale": [
+        0.006364000545767485,
+        0.006741000420195083,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia030",
+      "extras": {
+        "name": "dia030",
+        "gltfUUID": "AA5E2BA9-029D-42D6-923F-25D65F8968B0"
+      },
+      "translation": [
+        -8.505582809448242,
+        -7.671317100524902,
+        -0.08666197210550308
+      ],
+      "rotation": [
+        -0.0000021681231017053424,
+        -0.000003213040079268794,
+        0.8776781068624415,
+        0.4792506032540139
+      ],
+      "scale": [
+        0.006364002056328791,
+        0.006741002485902637,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia031",
+      "extras": {
+        "name": "dia031",
+        "gltfUUID": "2A452976-B056-42CE-A2C6-F0899292A00E"
+      },
+      "translation": [
+        -9.196920394897461,
+        -6.405211925506592,
+        -0.08667270094156265
+      ],
+      "rotation": [
+        -0.0000026109133476880687,
+        -0.0000033634592579678033,
+        0.8412525544442754,
+        0.5406423398355437
+      ],
+      "scale": [
+        0.006364000593811995,
+        0.006741000936747048,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia032",
+      "extras": {
+        "name": "dia032",
+        "gltfUUID": "6308F40E-46C5-4B55-B0D3-2BC34B6C0DB0"
+      },
+      "translation": [
+        -9.701024055480957,
+        -5.053600788116455,
+        -0.08668091893196106
+      ],
+      "rotation": [
+        -0.000003059775735149913,
+        -0.000003659579080944493,
+        0.8005400299503987,
+        0.5992792841607826
+      ],
+      "scale": [
+        0.006364000033637392,
+        0.00674099987772668,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia033",
+      "extras": {
+        "name": "dia033",
+        "gltfUUID": "25E1D6D8-E148-4D42-A100-AECBC960C4EC"
+      },
+      "translation": [
+        -10.00766658782959,
+        -3.6440036296844482,
+        -0.08671083301305771
+      ],
+      "rotation": [
+        -0.000004256215120001664,
+        -0.000004532824198516374,
+        0.7557482727817325,
+        0.6548622360075179
+      ],
+      "scale": [
+        0.006363999916361245,
+        0.006740999753503156,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia034",
+      "extras": {
+        "name": "dia034",
+        "gltfUUID": "5991E00C-EFA9-4D50-A500-C72E8173ACBE"
+      },
+      "translation": [
+        -10.110563278198242,
+        -2.205162286758423,
+        -0.0865243449807167
+      ],
+      "rotation": [
+        0.0000021014452613599256,
+        0.0000021014451392139714,
+        0.707106769084931,
+        0.7071067932819186
+      ],
+      "scale": [
+        0.006364000348532783,
+        0.006741000211276293,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia035",
+      "extras": {
+        "name": "dia035",
+        "gltfUUID": "FC402245-631E-4209-9DAF-0EA290715663"
+      },
+      "translation": [
+        -10.007637977600098,
+        -0.7662355303764343,
+        -0.08658060431480408
+      ],
+      "rotation": [
+        0,
+        0,
+        0.6548591836844457,
+        0.7557509176601385
+      ],
+      "scale": [
+        0.006364000315799933,
+        0.0067410001490188585,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia036",
+      "extras": {
+        "name": "dia036",
+        "gltfUUID": "423C4699-083B-49AD-AE65-30E3BF4A4811"
+      },
+      "translation": [
+        -9.700977325439453,
+        0.6433558464050293,
+        -0.08661340177059174
+      ],
+      "rotation": [
+        0,
+        0,
+        0.5992757089171222,
+        0.8005427063573065
+      ],
+      "scale": [
+        0.006364000068770435,
+        0.006740999914940987,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia037",
+      "extras": {
+        "name": "dia037",
+        "gltfUUID": "D2405A77-F705-49D5-8224-B0C37747B9AA"
+      },
+      "translation": [
+        -9.196845054626465,
+        1.9949629306793213,
+        -0.0866255983710289
+      ],
+      "rotation": [
+        0,
+        0,
+        0.5406384491563269,
+        0.8412550548399943
+      ],
+      "scale": [
+        0.00636400010766446,
+        0.006740999956139072,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia038",
+      "extras": {
+        "name": "dia038",
+        "gltfUUID": "5D80474B-F520-45A4-A80A-5ABBE7C5CBEB"
+      },
+      "translation": [
+        -8.505491256713867,
+        3.2610538005828857,
+        -0.08663208037614822
+      ],
+      "rotation": [
+        -0.000002263421105826647,
+        -1.697471315449884e-14,
+        0.4792466539129217,
+        0.8776802633693805
+      ],
+      "scale": [
+        0.006364000204675248,
+        0.006741000058896725,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia039",
+      "extras": {
+        "name": "dia039",
+        "gltfUUID": "6BBD6425-5E71-4869-A974-E678D504A07A"
+      },
+      "translation": [
+        -7.640983581542969,
+        4.415872573852539,
+        -0.08663591742515564
+      ],
+      "rotation": [
+        -0.0000024252564947779606,
+        4.8241282612068255e-15,
+        0.4154126907826515,
+        0.9096330558696927
+      ],
+      "scale": [
+        0.006363999974423895,
+        0.006740999815005409,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia040",
+      "extras": {
+        "name": "dia040",
+        "gltfUUID": "ABDCC98B-EDF1-46C1-BABB-3CD768C1AEA2"
+      },
+      "translation": [
+        -6.62093448638916,
+        5.435908317565918,
+        -0.08663772791624069
+      ],
+      "rotation": [
+        -0.000002551476480443236,
+        -2.553921533910724e-14,
+        0.34946179311626646,
+        0.9369506151049017
+      ],
+      "scale": [
+        0.006364000371442574,
+        0.0067410002355432555,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia041",
+      "extras": {
+        "name": "dia041",
+        "gltfUUID": "BC93332C-8B9A-4B94-8657-985BFEF73430"
+      },
+      "translation": [
+        -5.466102600097656,
+        6.3003950119018555,
+        -0.08664145320653915
+      ],
+      "rotation": [
+        -0.0000028803449977681253,
+        -2.842510401975016e-15,
+        0.28172997142006984,
+        0.9594937327545972
+      ],
+      "scale": [
+        0.006364000072640553,
+        0.00674099991904037,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia042",
+      "extras": {
+        "name": "dia042",
+        "gltfUUID": "EBDA579B-28A5-42AD-8E42-CB79E1551FEB"
+      },
+      "translation": [
+        -4.199981212615967,
+        6.991724491119385,
+        -0.08664341270923615
+      ],
+      "rotation": [
+        -0.0000029700995408414673,
+        3.4313510475084443e-16,
+        0.21256253009646944,
+        0.9771474662455847
+      ],
+      "scale": [
+        0.006364000023102223,
+        0.006740999866567415,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia043",
+      "extras": {
+        "name": "dia043",
+        "gltfUUID": "BFCBE3A0-1E5D-4779-960B-0B32BBFEBB15"
+      },
+      "translation": [
+        -2.848367691040039,
+        7.495833396911621,
+        -0.08664445579051971
+      ],
+      "rotation": [
+        -0.0000030264632119823285,
+        3.9137264301867003e-17,
+        0.14231197505670773,
+        0.9898218535404739
+      ],
+      "scale": [
+        0.006364000028717118,
+        0.006740999872514944,
+        0.006364000029861922
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "dia044",
+      "extras": {
+        "name": "dia044",
+        "gltfUUID": "232522BB-4B1C-4E08-BD62-9CCC07899C47"
+      },
+      "translation": [
+        -1.43877375125885,
+        7.802460670471191,
+        -0.0866469293832779
+      ],
+      "rotation": [
+        -0.000003072456336160985,
+        2.1553188984382712e-17,
+        0.07133619419236054,
+        0.9974523283790107
+      ],
+      "scale": [
+        0.006364000028613486,
+        0.006740999406743875,
+        0.006364000029861927
+      ],
+      "mesh": 0,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_001",
+      "extras": {
+        "name": "diamond_side_cuchion_001",
+        "gltfUUID": "D7A0280D-AEFC-444D-B716-7C3BFFC1C776"
+      },
+      "translation": [
+        -0.34236568212509155,
+        10.308538436889648,
+        4.1410603523254395
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_002",
+      "extras": {
+        "name": "diamond_side_cuchion_002",
+        "gltfUUID": "8A03AEE7-E20F-45FE-AF25-EBE1CCA41979"
+      },
+      "translation": [
+        1.2560230493545532,
+        10.308538436889648,
+        3.785780429840088
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_003",
+      "extras": {
+        "name": "diamond_side_cuchion_003",
+        "gltfUUID": "3DF4C223-26CA-4276-9690-337EECF0187E"
+      },
+      "translation": [
+        2.8013110160827637,
+        10.308538436889648,
+        3.124359607696533
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_004",
+      "extras": {
+        "name": "diamond_side_cuchion_004",
+        "gltfUUID": "CA885454-F764-47E6-933A-49B83F675EFE"
+      },
+      "translation": [
+        3.52955961227417,
+        10.308538436889648,
+        1.6392556428909302
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_005",
+      "extras": {
+        "name": "diamond_side_cuchion_005",
+        "gltfUUID": "0CE393F2-AA93-4A15-BD7B-A519050CCE0E"
+      },
+      "translation": [
+        3.769404888153076,
+        10.308538436889648,
+        -0.02344641648232937
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_006",
+      "extras": {
+        "name": "diamond_side_cuchion_006",
+        "gltfUUID": "51202078-E832-4648-BC7D-21CE7ACF8B3B"
+      },
+      "translation": [
+        3.5474963188171387,
+        10.308538436889648,
+        -1.6950281858444214
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_007",
+      "extras": {
+        "name": "diamond_side_cuchion_007",
+        "gltfUUID": "F5833ABC-7E2F-4F0E-B781-8B2981040167"
+      },
+      "translation": [
+        2.862353801727295,
+        10.308538436889648,
+        -3.1600453853607178
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_008",
+      "extras": {
+        "name": "diamond_side_cuchion_008",
+        "gltfUUID": "5CA9EA0E-95D4-4B18-A3D8-3F27E09DF3CF"
+      },
+      "translation": [
+        1.3605915307998657,
+        10.308538436889648,
+        -3.904538869857788
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_009",
+      "extras": {
+        "name": "diamond_side_cuchion_009",
+        "gltfUUID": "1378045D-B0DF-4837-AA9E-415F07E06A6C"
+      },
+      "translation": [
+        -0.26567500829696655,
+        10.308538436889648,
+        -4.141050338745117
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_010",
+      "extras": {
+        "name": "diamond_side_cuchion_010",
+        "gltfUUID": "52CF5466-8AA3-472C-9976-05670C4F9DCD"
+      },
+      "translation": [
+        -1.8998764753341675,
+        10.308538436889648,
+        -3.9347569942474365
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_011",
+      "extras": {
+        "name": "diamond_side_cuchion_011",
+        "gltfUUID": "2D53AF8D-1139-4759-8B85-CC1114A88542"
+      },
+      "translation": [
+        -3.4364213943481445,
+        10.308538436889648,
+        -3.204547643661499
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_012",
+      "extras": {
+        "name": "diamond_side_cuchion_012",
+        "gltfUUID": "B6093234-8929-4B53-B380-EE1D2DE966D9"
+      },
+      "translation": [
+        -4.1648759841918945,
+        10.308538436889648,
+        -1.6929024457931519
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_013",
+      "extras": {
+        "name": "diamond_side_cuchion_013",
+        "gltfUUID": "79283D0F-5CD1-4CDB-8324-B631C44AF4AE"
+      },
+      "translation": [
+        -4.3589677810668945,
+        10.308538436889648,
+        -0.06601414829492569
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_014",
+      "extras": {
+        "name": "diamond_side_cuchion_014",
+        "gltfUUID": "333AF01A-8D56-4F86-934A-C995290CAA07"
+      },
+      "translation": [
+        -4.1608781814575195,
+        10.308538436889648,
+        1.5688449144363403
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_015",
+      "extras": {
+        "name": "diamond_side_cuchion_015",
+        "gltfUUID": "CBABA583-BDB0-4FD4-A43C-0C250B30F4F7"
+      },
+      "translation": [
+        -3.4402360916137695,
+        10.308538436889648,
+        3.052269458770752
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "diamond_side_cuchion_016",
+      "extras": {
+        "name": "diamond_side_cuchion_016",
+        "gltfUUID": "0771C020-DB7C-45E4-B349-411DE8F0208D"
+      },
+      "translation": [
+        -1.982563853263855,
+        10.308538436889648,
+        3.7631421089172363
+      ],
+      "rotation": [
+        0,
+        -0.7431447509370452,
+        0,
+        0.6691306891442935
+      ],
+      "scale": [
+        0.006808000084863818,
+        0.006806999910622835,
+        0.006808000084863818
+      ],
+      "mesh": 1,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "Object",
+      "extras": {
+        "name": "Object",
+        "gltfUUID": "0A836361-C464-4A1F-A5EF-6F8D882CA2D6"
+      },
+      "translation": [
+        -0.30013275146484375,
+        -1.3070136308670044,
+        19.922595977783203
+      ],
+      "rotation": [
+        -0.7071068286895769,
+        0,
+        0,
+        0.7071067336835151
+      ],
+      "mesh": 2,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "entourage",
+      "extras": {
+        "name": "entourage",
+        "gltfUUID": "692BE56D-4A4B-4529-BD7A-9C1BB778CE6E"
+      },
+      "translation": [
+        -0.30013275146484375,
+        -1.3070136308670044,
+        19.92259979248047
+      ],
+      "rotation": [
+        -0.7071068286895769,
+        0,
+        0,
+        0.7071067336835151
+      ],
+      "mesh": 3,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "alliance",
+      "extras": {
+        "name": "alliance",
+        "gltfUUID": "07AB7893-51CB-4674-AB91-F271D6BFDDEE"
+      },
+      "translation": [
+        0.000003814697265625,
+        -2.2052040100097656,
+        -0.08572268486022949
+      ],
+      "scale": [
+        0.18000000715255737,
+        0.18000000715255737,
+        0.18000000715255737
+      ],
+      "mesh": 4,
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": true,
+          "receiveShadow": true
+        }
+      }
+    },
+    {
+      "name": "ring-compare",
+      "extras": {
+        "name": "ring-compare",
+        "gltfUUID": "64DAF42F-DB07-4DCC-B601-1018C0718634"
+      },
+      "scale": [
+        0.009999999776482582,
+        0.009999999396575043,
+        0.009999999396575043
+      ],
+      "children": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": false,
+          "receiveShadow": false
+        }
+      }
+    },
+    {
+      "name": "Scene",
+      "extras": {
+        "name": "Scene",
+        "gltfUUID": "9A03FC42-76AA-4305-AFD8-9D1030E4750D"
+      },
+      "translation": [
+        -3.1057992982974625e-10,
+        -0.018175260531312888,
+        -0.0010422684545688815
+      ],
+      "scale": [
+        11.40016790316119,
+        11.40016790316119,
+        11.40016790316119
+      ],
+      "children": [
+        63
+      ],
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": false,
+          "receiveShadow": false
+        }
+      }
+    },
+    {
+      "extras": {
+        "pseudoCentered": true,
+        "autoScaled": true,
+        "autoScaleRadius": 2,
+        "gltfUUID": "E9663EEA-9E2A-4C4B-B78A-E39D2DAA32C1"
+      },
+      "translation": [
+        3.1057992982974625e-10,
+        0.018175260531312888,
+        0.0010422684545688815
+      ],
+      "children": [
+        64
+      ],
+      "extensions": {
+        "WEBGI_object3d_extras": {
+          "castShadow": false,
+          "receiveShadow": false
+        }
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "extras": {
+        "rootSceneModelRoot": true,
+        "gltfUUID": "8bb4ede3-63a0-40ac-84c4-450d048871a3"
+      },
+      "nodes": [
+        65
+      ],
+      "extensions": {
+        "WEBGI_viewer": {
+          "version": "0.5.31",
+          "plugins": [
+            {
+              "type": "AssetExporterPlugin"
+            },
+            {
+              "type": "GLTFDracoExportPlugin"
+            },
+            {
+              "enabled": true,
+              "type": "AssetManagerBasicPopupPlugin"
+            },
+            {
+              "enabled": false,
+              "autoFocus": false,
+              "type": "Picking"
+            },
+            {
+              "enabled": true,
+              "type": "GBuffer",
+              "pass": {}
+            },
+            {
+              "maxFrameCount": 16,
+              "jitter": true,
+              "type": "Progressive",
+              "passes": {
+                "progressive": {
+                  "enabled": true
+                }
+              }
+            },
+            {
+              "enabled": true,
+              "type": "Tonemap",
+              "pass": {
+                "toneMapping": 4,
+                "tonemapBackground": true,
+                "clipBackground": false,
+                "exposure": 1,
+                "enabled": true
+              }
+            },
+            {
+              "type": "SSReflection",
+              "passes": {
+                "ssr": {
+                  "intensity": 1,
+                  "boost": {
+                    "x": 1,
+                    "y": 1,
+                    "z": 1,
+                    "isVector3": true
+                  },
+                  "objectRadius": 1,
+                  "autoRadius": true,
+                  "power": 1.1,
+                  "tolerance": 0.5,
+                  "stepCount": 16,
+                  "lowQualityFrames": 2,
+                  "maskFrontRays": true,
+                  "maskFrontFactor": -0.2,
+                  "enabled": true
+                }
+              }
+            },
+            {
+              "type": "SSAO",
+              "passes": {
+                "ssao": {
+                  "bilateralPass": {
+                    "smoothEnabled": true,
+                    "edgeSharpness": 0.1,
+                    "enabled": true
+                  },
+                  "parameters": {
+                    "intensity": 0.25,
+                    "occlusionWorldRadius": 1,
+                    "bias": 0.001,
+                    "falloff": 1.6025000000000003,
+                    "edgeSharpness": 0.3,
+                    "blurEnabled": true
+                  },
+                  "enabled": true
+                }
+              }
+            },
+            {
+              "envMap": {
+                "uuid": "D7969941-9DD2-4902-BC9B-0A9D35E42E84",
+                "resource": "textures"
+              },
+              "forceSceneEnvMap": false,
+              "type": "Diamond"
+            },
+            {
+              "enabled": false,
+              "type": "FrameFade",
+              "pass": {
+                "enabled": false
+              }
+            },
+            {
+              "animateOnScroll": false,
+              "animationSpeed": 1,
+              "type": "GLTFAnimation"
+            },
+            {
+              "bakedShadows": true,
+              "groundReflection": true,
+              "physicalReflections": false,
+              "shadowBaker": {
+                "randomizedLight": {
+                  "object": {
+                    "uuid": "54e0b26a-477d-4edc-b3e7-ed6c825202f1",
+                    "type": "DirectionalLight",
+                    "castShadow": true,
+                    "layers": 32,
+                    "matrix": [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1
+                    ],
+                    "color": 16777215,
+                    "intensity": 10,
+                    "shadow": {
+                      "radius": 10,
+                      "mapSize": [
+                        1024,
+                        1024
+                      ],
+                      "camera": {
+                        "uuid": "e42a533e-8329-41f5-8824-88cf436ee31b",
+                        "type": "OrthographicCamera",
+                        "layers": 1,
+                        "zoom": 1,
+                        "left": -2,
+                        "right": 2,
+                        "top": 2,
+                        "bottom": -2,
+                        "near": -2,
+                        "far": 41,
+                        "view": {
+                          "enabled": true,
+                          "fullWidth": 1024,
+                          "fullHeight": 1024,
+                          "offsetX": -0.4375,
+                          "offsetY": 0.5,
+                          "width": 1024,
+                          "height": 1024
+                        }
+                      }
+                    }
+                  },
+                  "userData": {},
+                  "type": "DirectionalLight2",
+                  "target": [
+                    -0.06320399116001618,
+                    -0.6498861062275911,
+                    -0.7573990391027603
+                  ],
+                  "shadowParams": {
+                    "enabled": true,
+                    "radius": 10,
+                    "width": 1024,
+                    "height": 1024,
+                    "bias": 0,
+                    "normalBias": 0,
+                    "near": 1.5,
+                    "far": 20,
+                    "frustumSize": 4
+                  },
+                  "randomParams": {
+                    "focus": 1,
+                    "spread": 1,
+                    "distanceScale": 20,
+                    "minDistanceScale": {
+                      "x": 10,
+                      "y": 10,
+                      "z": 10,
+                      "isVector3": true
+                    },
+                    "normalDirection": {
+                      "x": 0,
+                      "y": 1,
+                      "z": 0,
+                      "isVector3": true
+                    },
+                    "direction": {
+                      "x": 0.2,
+                      "y": 0.96,
+                      "z": 0.2,
+                      "isVector3": true
+                    }
+                  }
+                },
+                "maxFrameNumber": 400,
+                "groundMapMode": "aoMap",
+                "alphaVignette": true,
+                "alphaVignetteAxis": "xy"
+              },
+              "material": {
+                "uuid": "bffd55e3-6758-4208-aba5-873e4f354091",
+                "resource": "materials"
+              },
+              "visible": false,
+              "size": 8,
+              "yOffset": 0,
+              "renderToDepth": true,
+              "tonemapGround": true,
+              "limitCameraAboveGround": false,
+              "type": "Ground"
+            },
+            {
+              "enabled": true,
+              "type": "Bloom",
+              "pass": {
+                "threshold": 2,
+                "softThreshold": 0.5,
+                "intensity": 0.5,
+                "bloomIterations": 4,
+                "radius": 0.6,
+                "power": 1,
+                "enabled": true
+              }
+            },
+            {
+              "enabled": true,
+              "type": "AnisotropyPlugin"
+            },
+            {
+              "enabled": true,
+              "type": "ThinFilmLayerPlugin"
+            },
+            {
+              "enabled": true,
+              "type": "NoiseBumpMaterialPlugin"
+            },
+            {
+              "enabled": true,
+              "bicubicFiltering": true,
+              "type": "CustomBumpMapPlugin"
+            },
+            {
+              "enabled": true,
+              "type": "ClearcoatTintPlugin"
+            },
+            {
+              "enabled": false,
+              "type": "VelocityBuffer",
+              "pass": {}
+            },
+            {
+              "enabled": true,
+              "type": "TAA",
+              "pass": {
+                "feedBack": {
+                  "x": 0.88,
+                  "y": 0.97,
+                  "isVector2": true
+                },
+                "enabled": true
+              }
+            },
+            {
+              "cameraViews": [
+                {
+                  "position": {
+                    "x": -0.05601185511482587,
+                    "y": 1.8782705528426429,
+                    "z": 5.128440623350764,
+                    "isVector3": true
+                  },
+                  "target": {
+                    "x": -0.02742163628436153,
+                    "y": -0.1374309535007533,
+                    "z": 0.13540699083722965,
+                    "isVector3": true
+                  },
+                  "quaternion": {
+                    "x": -0.19066892532569257,
+                    "y": -0.0028104521988825274,
+                    "z": -0.0005458827256196902,
+                    "w": 0.981650225021944,
+                    "isQuaternion": true
+                  },
+                  "up": {
+                    "x": 0.002143463601760644,
+                    "y": 0.9272901258543906,
+                    "z": -0.3743373185467036,
+                    "isVector3": true
+                  },
+                  "name": "Camera View1",
+                  "serializableClassId": "CameraView"
+                },
+                {
+                  "position": {
+                    "x": 1.5068754697928437,
+                    "y": 1.4563723464098046,
+                    "z": 2.937046367510518,
+                    "isVector3": true
+                  },
+                  "target": {
+                    "x": -0.34694895820508126,
+                    "y": -0.07367148929190584,
+                    "z": 0.7884810242595767,
+                    "isVector3": true
+                  },
+                  "quaternion": {
+                    "x": -0.22942547497920016,
+                    "y": 0.33786068748336956,
+                    "z": 0.08529138884468827,
+                    "w": 0.9088121292504724,
+                    "isQuaternion": true
+                  },
+                  "up": {
+                    "x": -0.3100553948106846,
+                    "y": 0.8801786608390252,
+                    "z": -0.3593760942973402,
+                    "isVector3": true
+                  },
+                  "name": "Camera View5",
+                  "serializableClassId": "CameraView"
+                },
+                {
+                  "position": {
+                    "x": -2.3561993470668434,
+                    "y": 2.0263998229160127,
+                    "z": 3.7575531612493136,
+                    "isVector3": true
+                  },
+                  "target": {
+                    "x": -0.28184481413887924,
+                    "y": 0.07272948552280369,
+                    "z": 0.7177905273983528,
+                    "isVector3": true
+                  },
+                  "quaternion": {
+                    "x": -0.23095286083786357,
+                    "y": -0.28621115462958574,
+                    "z": -0.07129289002214861,
+                    "w": 0.9271792032119225,
+                    "isQuaternion": true
+                  },
+                  "up": {
+                    "x": 0.2644051398616439,
+                    "y": 0.8831561998061925,
+                    "z": -0.38745973824209023,
+                    "isVector3": true
+                  },
+                  "name": "Camera View6",
+                  "serializableClassId": "CameraView"
+                }
+              ],
+              "viewLooping": false,
+              "viewPauseTime": 200,
+              "animEase": "easeInOutSine",
+              "animDuration": 4000,
+              "rotationOffset": 0.25,
+              "interpolateMode": "spherical",
+              "seekOnScroll": false,
+              "type": "CameraViews"
+            },
+            {
+              "enabled": false,
+              "rdLight": {
+                "object": {
+                  "uuid": "ef2f4ec7-0e16-40fd-8458-5e185a2ee9c8",
+                  "type": "DirectionalLight",
+                  "castShadow": true,
+                  "layers": 0,
+                  "matrix": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    1
+                  ],
+                  "color": 16575947,
+                  "intensity": 5,
+                  "shadow": {
+                    "bias": 0.001,
+                    "radius": 4,
+                    "mapSize": [
+                      1024,
+                      1024
+                    ],
+                    "camera": {
+                      "uuid": "2a863fda-9ac7-46d1-83e8-076a3fb810a4",
+                      "type": "OrthographicCamera",
+                      "layers": 1,
+                      "zoom": 1,
+                      "left": -2,
+                      "right": 2,
+                      "top": 2,
+                      "bottom": -2,
+                      "near": -2,
+                      "far": 9,
+                      "view": {
+                        "enabled": true,
+                        "fullWidth": 1024,
+                        "fullHeight": 1024,
+                        "offsetX": -0.4375,
+                        "offsetY": 0.5,
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    }
+                  }
+                },
+                "userData": {},
+                "type": "DirectionalLight2",
+                "target": [
+                  0,
+                  0,
+                  -1
+                ],
+                "shadowParams": {
+                  "enabled": true,
+                  "radius": 4,
+                  "width": 1024,
+                  "height": 1024,
+                  "bias": 0.001,
+                  "normalBias": 0,
+                  "near": 1.5,
+                  "far": 4,
+                  "frustumSize": 4
+                },
+                "randomParams": {
+                  "focus": 1,
+                  "spread": 0.01,
+                  "distanceScale": 50,
+                  "minDistanceScale": {
+                    "x": 10,
+                    "y": 10,
+                    "z": 10,
+                    "isVector3": true
+                  },
+                  "normalDirection": {
+                    "x": 0.010203019316098974,
+                    "y": 0.9998958929776994,
+                    "z": 0.010203019316098974,
+                    "isVector3": true
+                  },
+                  "direction": {
+                    "x": -0.9,
+                    "y": 0.5,
+                    "z": -1,
+                    "isVector3": true
+                  }
+                }
+              },
+              "lightLayers": 1,
+              "type": "RandomizedDirectionalLight"
+            },
+            {
+              "enabled": false,
+              "worldRadius": 100,
+              "tripodHeight": 10,
+              "type": "HDRiGroundPlugin"
+            },
+            {
+              "enableEdit": false,
+              "focalPoint": {
+                "x": 0,
+                "y": 0,
+                "z": 0,
+                "isVector3": true
+              },
+              "crossFadeTime": 200,
+              "enabled": false,
+              "type": "DepthOfField",
+              "pass": {
+                "nearFarBlurScale": {
+                  "x": 0.25,
+                  "y": 0.25,
+                  "isVector2": true
+                },
+                "focalDepthRange": {
+                  "x": 11.056924080392815,
+                  "y": 1.5,
+                  "isVector2": true
+                },
+                "enabled": false
+              }
+            },
+            {
+              "enabled": false,
+              "radius": 0.015,
+              "intensity": 1,
+              "tolerance": 1.5,
+              "onlySSCSDebug": false,
+              "stepCount": 2,
+              "type": "SSContactShadows"
+            },
+            {
+              "type": "SSGI",
+              "passes": {
+                "ssrtgi": {
+                  "bilateralPass": {
+                    "smoothEnabled": true,
+                    "edgeSharpness": 0.1,
+                    "enabled": true
+                  },
+                  "intensity": 2,
+                  "power": 1.1,
+                  "autoRadius": true,
+                  "objectRadius": 2,
+                  "tolerance": 1,
+                  "bias": 0.15,
+                  "falloff": 0.7,
+                  "rayCount": 2,
+                  "stepCount": 4,
+                  "smoothEnabled": true,
+                  "enabled": false
+                }
+              }
+            },
+            {
+              "stepCount": 12,
+              "binaryStepCount": 3,
+              "type": "ReliefParallaxMapping"
+            },
+            {
+              "enabled": false,
+              "type": "NormalBufferPlugin",
+              "pass": {}
+            },
+            {
+              "enabled": false,
+              "type": "SSBevelPlugin",
+              "pass": {
+                "enabled": false
+              }
+            },
+            {
+              "enabled": true,
+              "type": "ObjectRotationPlugin"
+            },
+            {
+              "type": "ShapeTubeExtrudePlugin"
+            },
+            {
+              "type": "SimpleTextPlugin"
+            },
+            {
+              "variations": [
+                {
+                  "uuid": "2C43DF05-5BE6-4DE3-AA5B-1133296C0AC5",
+                  "title": "Gold",
+                  "preview": "color",
+                  "materials": [
+                    {
+                      "uuid": "9765BCC7-259A-4F99-83F3-8D1D565A4CAF",
+                      "resource": "materials"
+                    },
+                    {
+                      "uuid": "46B4B191-5460-4514-9E8C-83AAFCC18940",
+                      "resource": "materials"
+                    },
+                    {
+                      "uuid": "55451541-A73E-4655-BE59-12EB62A8068F",
+                      "resource": "materials"
+                    }
+                  ]
+                },
+                {
+                  "uuid": "DFC6BE4E-4D58-4A9B-8EB0-AC92273F869A",
+                  "title": "Center Gem",
+                  "preview": "color",
+                  "materials": [
+                    {
+                      "uuid": "C0038884-15AF-4380-81A2-C544B43B171E",
+                      "resource": "materials"
+                    },
+                    {
+                      "uuid": "B65D5781-325F-4D06-9B3B-7869FB8FB092",
+                      "resource": "materials"
+                    },
+                    {
+                      "uuid": "C45FFDF2-C4DC-4A0D-B148-AEC67B88BFF5",
+                      "resource": "materials"
+                    },
+                    {
+                      "uuid": "D60BAED8-41BA-4E0D-A436-B8C75A38EFE7",
+                      "resource": "materials"
+                    },
+                    {
+                      "uuid": "6F1EDB17-2BE6-46E6-9E8B-0B5E71A18900",
+                      "resource": "materials"
+                    }
+                  ]
+                }
+              ],
+              "type": "MaterialConfiguratorPlugin"
+            },
+            {
+              "variations": [],
+              "type": "SwitchNodePlugin"
+            },
+            {
+              "type": "MaterialLibraryPlugin"
+            },
+            {
+              "convergeMode": false,
+              "mimeType": "auto",
+              "videoFrameRate": 30,
+              "type": "CanvasRecorder"
+            },
+            {
+              "type": "CanvasSnipper"
+            },
+            {
+              "width": 1565,
+              "height": 1060,
+              "scale": 1,
+              "type": "RendererParamsUiPlugin"
+            }
+          ],
+          "scene": {
+            "defaultCamera": {
+              "camControls": {
+                "type": "OrbitControls",
+                "dollyZoom": false,
+                "enableDamping": true,
+                "dampingFactor": 0.05,
+                "autoRotate": false,
+                "autoRotateSpeed": 2,
+                "enableZoom": true,
+                "zoomSpeed": 1,
+                "maxZoomSpeed": 0.2,
+                "enableRotate": true,
+                "rotateSpeed": 1,
+                "enablePan": true,
+                "panSpeed": 1,
+                "autoPushTarget": false,
+                "minDistance": 0,
+                "maxDistance": "Infinity",
+                "minZoom": 0,
+                "maxZoom": "Infinity",
+                "minPolarAngle": 0,
+                "maxPolarAngle": 3.141592653589793,
+                "minAzimuthAngle": "-Infinity",
+                "maxAzimuthAngle": "Infinity",
+                "screenSpacePanning": true,
+                "keyPanSpeed": 7
+              },
+              "userData": {},
+              "camOptions": {
+                "type": "PerspectiveCamera",
+                "aspect": "auto",
+                "focus": 10,
+                "fov": 25,
+                "zoom": 1,
+                "frustumSize": 1,
+                "top": 1,
+                "bottom": -1,
+                "left": -1,
+                "right": 1,
+                "controlsMode": "orbit",
+                "controlsEnabled": true
+              },
+              "position": {
+                "x": -5.961051533406949,
+                "y": 2.138274899631936,
+                "z": 5.470032905707296,
+                "isVector3": true
+              },
+              "target": {
+                "x": 0.08275283610124294,
+                "y": -0.09405924470832186,
+                "z": -0.15759891272505597,
+                "isVector3": true
+              }
+            },
+            "envMapIntensity": 1,
+            "environment": {
+              "uuid": "055911d1-dc50-4419-8262-baa95db6b89f",
+              "resource": "textures"
+            }
+          },
+          "background": "#ffffff",
+          "backgroundIntensity": 1,
+          "resources": {
+            "geometries": {},
+            "materials": {
+              "bffd55e3-6758-4208-aba5-873e4f354091": {
+                "metadata": {
+                  "version": 4.5,
+                  "type": "Material",
+                  "generator": "Material.toJSON"
+                },
+                "uuid": "bffd55e3-6758-4208-aba5-873e4f354091",
+                "type": "MeshStandardMaterial2",
+                "name": "GroundMaterial",
+                "color": 16777215,
+                "roughness": 0.2608695652173913,
+                "metalness": 0.2826086956521739,
+                "sheen": 0,
+                "sheenColor": 0,
+                "sheenRoughness": 1,
+                "emissive": 0,
+                "specularIntensity": 1,
+                "specularColor": 16777215,
+                "clearcoat": 0,
+                "clearcoatRoughness": 0,
+                "iridescence": 0,
+                "iridescenceIOR": 1.3,
+                "iridescenceThicknessRange": [
+                  100,
+                  400
+                ],
+                "envMapIntensity": 1,
+                "reflectivity": 0.49999999999999983,
+                "transmission": 0,
+                "thickness": 0,
+                "attenuationDistance": 0,
+                "attenuationColor": 16777215,
+                "blending": 0,
+                "transparent": true,
+                "depthFunc": 3,
+                "depthTest": true,
+                "depthWrite": true,
+                "colorWrite": true,
+                "stencilWrite": false,
+                "stencilWriteMask": 255,
+                "stencilFunc": 519,
+                "stencilRef": 0,
+                "stencilFuncMask": 255,
+                "stencilFail": 7680,
+                "stencilZFail": 7680,
+                "stencilZPass": 7680,
+                "fog": false,
+                "userData": {
+                  "renderToDepth": true,
+                  "postTonemap": true,
+                  "ssaoDisabled": true,
+                  "sscsDisabled": true,
+                  "ssreflDisabled": true,
+                  "ssreflNonPhysical": true,
+                  "gMapMode": "aoMap",
+                  "ALPHA_I_RGBA_PACKING": false,
+                  "uuid": "bffd55e3-6758-4208-aba5-873e4f354091"
+                }
+              },
+              "9765BCC7-259A-4F99-83F3-8D1D565A4CAF": {
+                "metadata": {
+                  "version": 4.5,
+                  "type": "Material",
+                  "generator": "Material.toJSON"
+                },
+                "uuid": "9765BCC7-259A-4F99-83F3-8D1D565A4CAF",
+                "type": "MeshStandardMaterial2",
+                "name": "Gold White",
+                "color": 9868950,
+                "roughness": 0,
+                "metalness": 1,
+                "sheen": 0,
+                "sheenColor": 0,
+                "sheenRoughness": 1,
+                "emissive": 0,
+                "specularIntensity": 1,
+                "specularColor": 16777215,
+                "clearcoat": 0,
+                "clearcoatRoughness": 0,
+                "iridescence": 0,
+                "iridescenceIOR": 1.3,
+                "iridescenceThicknessRange": [
+                  100,
+                  400
+                ],
+                "envMapIntensity": 0.9565217391304348,
+                "reflectivity": 0.49999999999999983,
+                "transmission": 0,
+                "thickness": 0,
+                "attenuationDistance": 0,
+                "attenuationColor": 16777215,
+                "side": 2,
+                "depthFunc": 3,
+                "depthTest": true,
+                "depthWrite": true,
+                "colorWrite": true,
+                "stencilWrite": false,
+                "stencilWriteMask": 255,
+                "stencilFunc": 519,
+                "stencilRef": 0,
+                "stencilFuncMask": 255,
+                "stencilFail": 7680,
+                "stencilZFail": 7680,
+                "stencilZPass": 7680,
+                "fog": false,
+                "userData": {
+                  "uuid": "9765BCC7-259A-4F99-83F3-8D1D565A4CAF"
+                }
+              },
+              "46B4B191-5460-4514-9E8C-83AAFCC18940": {
+                "metadata": {
+                  "version": 4.5,
+                  "type": "Material",
+                  "generator": "Material.toJSON"
+                },
+                "uuid": "46B4B191-5460-4514-9E8C-83AAFCC18940",
+                "type": "MeshStandardMaterial2",
+                "name": "Gold",
+                "color": 12220200,
+                "roughness": 0,
+                "metalness": 1,
+                "sheen": 0,
+                "sheenColor": 0,
+                "sheenRoughness": 1,
+                "emissive": 0,
+                "specularIntensity": 1,
+                "specularColor": 16777215,
+                "clearcoat": 0,
+                "clearcoatRoughness": 0,
+                "iridescence": 0,
+                "iridescenceIOR": 1.3,
+                "iridescenceThicknessRange": [
+                  100,
+                  400
+                ],
+                "envMapIntensity": 0.9565217391304348,
+                "reflectivity": 0.49999999999999983,
+                "transmission": 0,
+                "thickness": 0,
+                "attenuationDistance": 0,
+                "attenuationColor": 16777215,
+                "side": 2,
+                "depthFunc": 3,
+                "depthTest": true,
+                "depthWrite": true,
+                "colorWrite": true,
+                "stencilWrite": false,
+                "stencilWriteMask": 255,
+                "stencilFunc": 519,
+                "stencilRef": 0,
+                "stencilFuncMask": 255,
+                "stencilFail": 7680,
+                "stencilZFail": 7680,
+                "stencilZPass": 7680,
+                "fog": false,
+                "userData": {
+                  "uuid": "46B4B191-5460-4514-9E8C-83AAFCC18940"
+                }
+              },
+              "55451541-A73E-4655-BE59-12EB62A8068F": {
+                "metadata": {
+                  "version": 4.5,
+                  "type": "Material",
+                  "generator": "Material.toJSON"
+                },
+                "uuid": "55451541-A73E-4655-BE59-12EB62A8068F",
+                "type": "MeshStandardMaterial2",
+                "name": "Gold Rose",
+                "color": 13591863,
+                "roughness": 0,
+                "metalness": 1,
+                "sheen": 0,
+                "sheenColor": 0,
+                "sheenRoughness": 1,
+                "emissive": 0,
+                "specularIntensity": 1,
+                "specularColor": 16777215,
+                "clearcoat": 0,
+                "clearcoatRoughness": 0,
+                "iridescence": 0,
+                "iridescenceIOR": 1.3,
+                "iridescenceThicknessRange": [
+                  100,
+                  400
+                ],
+                "envMapIntensity": 0.9565217391304348,
+                "reflectivity": 0.49999999999999983,
+                "transmission": 0,
+                "thickness": 0,
+                "attenuationDistance": 0,
+                "attenuationColor": 16777215,
+                "side": 2,
+                "depthFunc": 3,
+                "depthTest": true,
+                "depthWrite": true,
+                "colorWrite": true,
+                "stencilWrite": false,
+                "stencilWriteMask": 255,
+                "stencilFunc": 519,
+                "stencilRef": 0,
+                "stencilFuncMask": 255,
+                "stencilFail": 7680,
+                "stencilZFail": 7680,
+                "stencilZPass": 7680,
+                "fog": false,
+                "userData": {
+                  "uuid": "55451541-A73E-4655-BE59-12EB62A8068F"
+                }
+              },
+              "C0038884-15AF-4380-81A2-C544B43B171E": {
+                "name": "Diamond",
+                "uuid": "C0038884-15AF-4380-81A2-C544B43B171E",
+                "color": 16579836,
+                "envMapIntensity": 1,
+                "dispersion": 0.012,
+                "squashFactor": 0.98,
+                "geometryFactor": 0.5,
+                "gammaFactor": 1,
+                "absorptionFactor": 1,
+                "reflectivity": 0.5,
+                "refractiveIndex": 2.4,
+                "rayBounces": 5,
+                "diamondOrientedEnvMap": 0,
+                "boostFactors": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 1,
+                  "isVector3": true
+                },
+                "transmission": 0,
+                "isDiamondMaterialParameters": true,
+                "type": "DiamondMaterial",
+                "userData": {
+                  "separateEnvMapIntensity": true,
+                  "uuid": "C0038884-15AF-4380-81A2-C544B43B171E"
+                }
+              },
+              "B65D5781-325F-4D06-9B3B-7869FB8FB092": {
+                "name": "Diamond Yellow",
+                "uuid": "B65D5781-325F-4D06-9B3B-7869FB8FB092",
+                "color": 16444203,
+                "envMapIntensity": 1,
+                "dispersion": 0.012,
+                "squashFactor": 0.98,
+                "geometryFactor": 0.5,
+                "gammaFactor": 1,
+                "absorptionFactor": 1,
+                "reflectivity": 0.5,
+                "refractiveIndex": 2.4,
+                "rayBounces": 5,
+                "diamondOrientedEnvMap": 0,
+                "boostFactors": {
+                  "x": 1.4,
+                  "y": 0.9,
+                  "z": 0.9,
+                  "isVector3": true
+                },
+                "transmission": 0,
+                "isDiamondMaterialParameters": true,
+                "type": "DiamondMaterial",
+                "userData": {
+                  "separateEnvMapIntensity": true,
+                  "uuid": "B65D5781-325F-4D06-9B3B-7869FB8FB092"
+                }
+              },
+              "C45FFDF2-C4DC-4A0D-B148-AEC67B88BFF5": {
+                "name": "Emerald",
+                "uuid": "C45FFDF2-C4DC-4A0D-B148-AEC67B88BFF5",
+                "color": 1164587,
+                "envMapIntensity": 1,
+                "dispersion": 0.012,
+                "squashFactor": 0.98,
+                "geometryFactor": 0.5,
+                "gammaFactor": 1,
+                "absorptionFactor": 1.3,
+                "reflectivity": 0.5,
+                "refractiveIndex": 2,
+                "rayBounces": 5,
+                "diamondOrientedEnvMap": 0,
+                "boostFactors": {
+                  "x": 0.6,
+                  "y": 0.95,
+                  "z": 1,
+                  "isVector3": true
+                },
+                "transmission": 0.09,
+                "isDiamondMaterialParameters": true,
+                "type": "DiamondMaterial",
+                "userData": {
+                  "separateEnvMapIntensity": true,
+                  "uuid": "C45FFDF2-C4DC-4A0D-B148-AEC67B88BFF5"
+                }
+              },
+              "D60BAED8-41BA-4E0D-A436-B8C75A38EFE7": {
+                "name": "Sapphire",
+                "uuid": "D60BAED8-41BA-4E0D-A436-B8C75A38EFE7",
+                "color": 1734876,
+                "envMapIntensity": 1,
+                "dispersion": 0,
+                "squashFactor": 0.98,
+                "geometryFactor": 0.5,
+                "gammaFactor": 1,
+                "absorptionFactor": 1.3,
+                "reflectivity": 0.5,
+                "refractiveIndex": 2,
+                "rayBounces": 5,
+                "diamondOrientedEnvMap": 0,
+                "boostFactors": {
+                  "x": 1.4,
+                  "y": 1.1,
+                  "z": 1,
+                  "isVector3": true
+                },
+                "transmission": 0.09,
+                "isDiamondMaterialParameters": true,
+                "type": "DiamondMaterial",
+                "userData": {
+                  "separateEnvMapIntensity": true,
+                  "uuid": "D60BAED8-41BA-4E0D-A436-B8C75A38EFE7"
+                }
+              },
+              "6F1EDB17-2BE6-46E6-9E8B-0B5E71A18900": {
+                "name": "Ruby",
+                "uuid": "6F1EDB17-2BE6-46E6-9E8B-0B5E71A18900",
+                "color": 16515628,
+                "envMapIntensity": 1,
+                "dispersion": 0,
+                "squashFactor": 0.98,
+                "geometryFactor": 0.5,
+                "gammaFactor": 1,
+                "absorptionFactor": 1.3,
+                "reflectivity": 0.5,
+                "refractiveIndex": 1.87,
+                "rayBounces": 5,
+                "diamondOrientedEnvMap": 0,
+                "boostFactors": {
+                  "x": 1,
+                  "y": 1,
+                  "z": 1.15,
+                  "isVector3": true
+                },
+                "transmission": 0.09,
+                "isDiamondMaterialParameters": true,
+                "type": "DiamondMaterial",
+                "userData": {
+                  "separateEnvMapIntensity": true,
+                  "uuid": "6F1EDB17-2BE6-46E6-9E8B-0B5E71A18900"
+                }
+              }
+            },
+            "textures": {
+              "D7969941-9DD2-4902-BC9B-0A9D35E42E84": {
+                "metadata": {
+                  "version": 4.5,
+                  "type": "Texture",
+                  "generator": "Texture.toJSON"
+                },
+                "uuid": "D7969941-9DD2-4902-BC9B-0A9D35E42E84",
+                "name": "",
+                "image": "50aed761-470b-4b98-a5e4-07aa43858e90",
+                "mapping": 300,
+                "repeat": [
+                  1,
+                  1
+                ],
+                "offset": [
+                  0,
+                  0
+                ],
+                "center": [
+                  0,
+                  0
+                ],
+                "rotation": 0.9561368945708066,
+                "wrap": [
+                  1001,
+                  1001
+                ],
+                "format": 1023,
+                "type": 1016,
+                "encoding": 3000,
+                "minFilter": 1006,
+                "magFilter": 1006,
+                "anisotropy": 1,
+                "flipY": false,
+                "premultiplyAlpha": false,
+                "unpackAlignment": 1,
+                "userData": {
+                  "rootPath": "https://demo.realvwr.com/gem_2.hdr"
+                }
+              },
+              "055911d1-dc50-4419-8262-baa95db6b89f": {
+                "metadata": {
+                  "version": 4.5,
+                  "type": "Texture",
+                  "generator": "Texture.toJSON"
+                },
+                "uuid": "055911d1-dc50-4419-8262-baa95db6b89f",
+                "name": "",
+                "image": "a6648c65-ceea-4e9d-a0d6-7ea8d276e65c",
+                "mapping": 303,
+                "repeat": [
+                  1,
+                  1
+                ],
+                "offset": [
+                  0,
+                  0
+                ],
+                "center": [
+                  0,
+                  0
+                ],
+                "rotation": 0,
+                "wrap": [
+                  1001,
+                  1001
+                ],
+                "format": 1023,
+                "type": 1016,
+                "encoding": 3000,
+                "minFilter": 1006,
+                "magFilter": 1006,
+                "anisotropy": 1,
+                "flipY": true,
+                "premultiplyAlpha": false,
+                "unpackAlignment": 1,
+                "userData": {
+                  "mimeType": "image/png"
+                }
+              }
+            },
+            "images": {
+              "a6648c65-ceea-4e9d-a0d6-7ea8d276e65c": {
+                "uuid": "a6648c65-ceea-4e9d-a0d6-7ea8d276e65c",
+                "url": {
+                  "data": {
+                    "image": 0
+                  },
+                  "width": 1024,
+                  "height": 512,
+                  "type": "Uint16Array",
+                  "encoding": "rgbe"
+                }
+              }
+            },
+            "shapes": {},
+            "skeletons": {},
+            "animations": {}
+          }
+        },
+        "WEBGI_material_extras": {
+          "resources": {
+            "images": {},
+            "textures": {}
+          }
+        }
+      }
+    }
+  ],
+  "scene": 0,
+  "extensionsUsed": [
+    "KHR_materials_clearcoat",
+    "KHR_materials_ior",
+    "KHR_materials_iridescence",
+    "WEBGI_viewer",
+    "WEBGI_materials_diamond",
+    "WEBGI_materials_bumpmap",
+    "WEBGI_materials_lightmap",
+    "WEBGI_object3d_extras",
+    "WEBGI_material_extras",
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ]
+}
